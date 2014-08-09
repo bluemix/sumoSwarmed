@@ -1,0 +1,44 @@
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.sf.net/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <osm-files value="singleIntersection.osm"/>
+    </input>
+
+    <output>
+        <output-file value="alameda.net.xml"/>
+    </output>
+
+    <projection>
+        <proj.utm value="true"/>
+    </projection>
+
+    <tls_building>
+        <tls.discard-simple value="true"/>
+        <tls.join value="true"/>
+    </tls_building>
+
+    <ramp_guessing>
+        <ramps.guess value="true"/>
+    </ramp_guessing>
+
+    <edge_removal>
+        <remove-edges.by-vclass value="hov,taxi,bus,delivery,transport,lightrail,cityrail,rail_slow,rail_fast,motorcycle,bicycle,pedestrian"/>
+        <remove-edges.by-type value="highway.track,highway.service"/>
+        <remove-edges.isolated value="true"/>
+    </edge_removal>
+
+    <processing>
+        <no-internal-links value="true"/>
+        <geometry.remove value="true"/>
+        <roundabouts.guess value="true"/>
+        <junctions.join value="true"/>
+        <junctions.join-dist value="7.5"/>
+        <tls.join-dist value="25"/>
+	<tls.set value="303278164,419656062,419656049,303276132,419656076,331525911,419646198,419646059,419646058,549226071,419656030,418376981,419646084,419659496,419625737,419659665,303278502,418234858,331525908,419641406,766791450,419640946,419641100,419640940,419641424,419641199,331526231,303275904,303275910,419674915,419677113,419680393,419632850,419630409,303275664,419677116,303275666,303275667,419680391,765632521,419677118,577406877,766079758,303275184"/>
+    </processing>
+
+    <report>
+        <verbose value="true"/>
+    </report>
+
+</configuration>

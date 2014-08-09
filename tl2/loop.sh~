@@ -1,0 +1,10 @@
+#!/bin/bash
+## /bin/bash loop.sh nombreDeLFileConfdeSUMO directorioDeLaRed nombreDelArchivoAdd nombreDelArchivodeTrips directorioDeLasAWKs numVehTotalesEnRou no olvidarse de poner la / al final de cada directorio
+# ejemplo: 
+# /bin/bash loop.sh c2smalaga.sumo.cfg malaga-alameda/ tl-logic.add.xml output-tripinfos.xml ./ 200 250
+#sumo -c $2$1 -a $2$3 --suppress-warnings > /dev/null
+echo "entering loop.sh"
+sumo -c $2$1 -a $2$3 
+awk -f $5$"processOutTLS.awk" $2$3 > GvR.txt
+gvr=$(cat GvR.txt)
+awk -f $5$"processOutSUMO.awk" $2$4  numVehTotal=$6 netdir=$5 greenVsred=$gvr sim_time=$7 > res.txt

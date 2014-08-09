@@ -1,0 +1,282 @@
+<additional>
+   <tl-logic id="296637196" type="static" programID="1" offset="0">
+       <phase duration="40" state="GG"/>
+       <phase duration="40" state="yy"/>
+   </tl-logic>
+   <tl-logic id="296637207" type="static" programID="1" offset="0">
+       <phase duration="28" state="GGrr"/>
+       <phase duration="40" state="yyrr"/>
+       <phase duration="5" state="rrGG"/>
+       <phase duration="40" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296637256" type="static" programID="1" offset="0">
+       <phase duration="40" state="GgGGr"/>
+       <phase duration="10" state="yyyyr"/>
+       <phase duration="26" state="rrGGG"/>
+       <phase duration="5" state="rryyy"/>
+   </tl-logic>
+   <tl-logic id="296637299" type="static" programID="1" offset="0">
+       <phase duration="15" state="GGrr"/>
+       <phase duration="5" state="yyrr"/>
+       <phase duration="5" state="rrGG"/>
+       <phase duration="5" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296637337" type="static" programID="1" offset="0">
+       <phase duration="28" state="rrrrGGGggGGGgg"/>
+       <phase duration="40" state="rrrryyyggyyygg"/>
+       <phase duration="40" state="rrrrrrrGGrrrGG"/>
+       <phase duration="5" state="rrrrrrryyrrryy"/>
+       <phase duration="40" state="GGGgGrrrrrrrrr"/>
+       <phase duration="5" state="yyyyyrrrrrrrrr"/>
+   </tl-logic>
+   <tl-logic id="296637345" type="static" programID="1" offset="0">
+       <phase duration="5" state="GGGgrrrGGgg"/>
+       <phase duration="5" state="yyygrrryygg"/>
+       <phase duration="30" state="rrrGrrrrrGG"/>
+       <phase duration="5" state="rrryrrrrryy"/>
+       <phase duration="40" state="rrrrGGGrrrr"/>
+       <phase duration="32" state="rrrryyyrrrr"/>
+   </tl-logic>
+   <tl-logic id="296637359" type="static" programID="1" offset="0">
+       <phase duration="40" state="GGGgrrrGGgg"/>
+       <phase duration="40" state="yyygrrryygg"/>
+       <phase duration="5" state="rrrGrrrrrGG"/>
+       <phase duration="40" state="rrryrrrrryy"/>
+       <phase duration="5" state="rrrrGGGrrrr"/>
+       <phase duration="35" state="rrrryyyrrrr"/>
+   </tl-logic>
+   <tl-logic id="296637421" type="static" programID="1" offset="0">
+       <phase duration="40" state="GGrr"/>
+       <phase duration="8" state="yyrr"/>
+       <phase duration="5" state="rrGG"/>
+       <phase duration="40" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296637430" type="static" programID="1" offset="0">
+       <phase duration="40" state="GGrr"/>
+       <phase duration="40" state="yyrr"/>
+       <phase duration="5" state="rrGG"/>
+       <phase duration="40" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296637438" type="static" programID="1" offset="0">
+       <phase duration="40" state="GGrr"/>
+       <phase duration="32" state="yyrr"/>
+       <phase duration="32" state="rrGG"/>
+       <phase duration="40" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296637447" type="static" programID="1" offset="0">
+       <phase duration="5" state="Gr"/>
+       <phase duration="40" state="yr"/>
+       <phase duration="7" state="rG"/>
+       <phase duration="38" state="ry"/>
+   </tl-logic>
+   <tl-logic id="296637521" type="static" programID="1" offset="0">
+       <phase duration="40" state="GGrr"/>
+       <phase duration="40" state="yyrr"/>
+       <phase duration="25" state="rrGG"/>
+       <phase duration="5" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296637528" type="static" programID="1" offset="0">
+       <phase duration="6" state="GGrr"/>
+       <phase duration="5" state="yyrr"/>
+       <phase duration="40" state="rrGG"/>
+       <phase duration="5" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296637539" type="static" programID="1" offset="0">
+       <phase duration="24" state="GGrr"/>
+       <phase duration="40" state="yyrr"/>
+       <phase duration="37" state="rrGG"/>
+       <phase duration="33" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296637549" type="static" programID="1" offset="0">
+       <phase duration="5" state="GGrr"/>
+       <phase duration="40" state="yyrr"/>
+       <phase duration="40" state="rrGG"/>
+       <phase duration="40" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296637610" type="static" programID="1" offset="0">
+       <phase duration="40" state="GGrr"/>
+       <phase duration="39" state="yyrr"/>
+       <phase duration="5" state="rrGG"/>
+       <phase duration="35" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296637617" type="static" programID="1" offset="0">
+       <phase duration="34" state="GGrr"/>
+       <phase duration="26" state="yyrr"/>
+       <phase duration="33" state="rrGG"/>
+       <phase duration="11" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296637626" type="static" programID="1" offset="0">
+       <phase duration="40" state="GGgrrrGgg"/>
+       <phase duration="5" state="yygrrrygg"/>
+       <phase duration="40" state="rrGrrrrGG"/>
+       <phase duration="5" state="rryrrrryy"/>
+       <phase duration="5" state="rrrGGGrrr"/>
+       <phase duration="40" state="rrryyyrrr"/>
+   </tl-logic>
+   <tl-logic id="296637748" type="static" programID="1" offset="0">
+       <phase duration="40" state="GGrr"/>
+       <phase duration="40" state="yyrr"/>
+       <phase duration="37" state="rrGG"/>
+       <phase duration="40" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296666303" type="static" programID="1" offset="0">
+       <phase duration="5" state="GGrr"/>
+       <phase duration="40" state="yyrr"/>
+       <phase duration="40" state="rrGG"/>
+       <phase duration="5" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296666425" type="static" programID="1" offset="0">
+       <phase duration="5" state="GGrr"/>
+       <phase duration="5" state="yyrr"/>
+       <phase duration="40" state="rrGG"/>
+       <phase duration="33" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296666432" type="static" programID="1" offset="0">
+       <phase duration="26" state="GGrr"/>
+       <phase duration="9" state="yyrr"/>
+       <phase duration="40" state="rrGG"/>
+       <phase duration="40" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296666497" type="static" programID="1" offset="0">
+       <phase duration="40" state="GGrr"/>
+       <phase duration="5" state="yyrr"/>
+       <phase duration="24" state="rrGG"/>
+       <phase duration="17" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296666518" type="static" programID="1" offset="0">
+       <phase duration="40" state="GGrr"/>
+       <phase duration="20" state="yyrr"/>
+       <phase duration="40" state="rrGG"/>
+       <phase duration="5" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296666546" type="static" programID="1" offset="0">
+       <phase duration="5" state="GGrr"/>
+       <phase duration="5" state="yyrr"/>
+       <phase duration="40" state="rrGG"/>
+       <phase duration="40" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296666558" type="static" programID="1" offset="0">
+       <phase duration="5" state="GGrr"/>
+       <phase duration="40" state="yyrr"/>
+       <phase duration="40" state="rrGG"/>
+       <phase duration="40" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296666580" type="static" programID="1" offset="0">
+       <phase duration="36" state="GGrr"/>
+       <phase duration="28" state="yyrr"/>
+       <phase duration="20" state="rrGG"/>
+       <phase duration="40" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296666611" type="static" programID="1" offset="0">
+       <phase duration="5" state="GGggGGGgrrr"/>
+       <phase duration="9" state="yyggyyygrrr"/>
+       <phase duration="40" state="rrGGrrrGrrr"/>
+       <phase duration="40" state="rryyrrryrrr"/>
+       <phase duration="39" state="rrrrrrrrGGG"/>
+       <phase duration="10" state="rrrrrrrryyy"/>
+   </tl-logic>
+   <tl-logic id="296666683" type="static" programID="1" offset="0">
+       <phase duration="40" state="GGrr"/>
+       <phase duration="37" state="yyrr"/>
+       <phase duration="40" state="rrGG"/>
+       <phase duration="40" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296666695" type="static" programID="1" offset="0">
+       <phase duration="40" state="GGGgrrrGGgg"/>
+       <phase duration="12" state="yyygrrryygg"/>
+       <phase duration="12" state="rrrGrrrrrGG"/>
+       <phase duration="5" state="rrryrrrrryy"/>
+       <phase duration="40" state="rrrrGGGrrrr"/>
+       <phase duration="40" state="rrrryyyrrrr"/>
+   </tl-logic>
+   <tl-logic id="296666708" type="static" programID="1" offset="0">
+       <phase duration="40" state="GGGgrrrGGgg"/>
+       <phase duration="40" state="yyygrrryygg"/>
+       <phase duration="5" state="rrrGrrrrrGG"/>
+       <phase duration="40" state="rrryrrrrryy"/>
+       <phase duration="5" state="rrrrGGGrrrr"/>
+       <phase duration="40" state="rrrryyyrrrr"/>
+   </tl-logic>
+   <tl-logic id="296666714" type="static" programID="1" offset="0">
+       <phase duration="36" state="GGggGGGgrrr"/>
+       <phase duration="40" state="yyggyyygrrr"/>
+       <phase duration="19" state="rrGGrrrGrrr"/>
+       <phase duration="5" state="rryyrrryrrr"/>
+       <phase duration="40" state="rrrrrrrrGGG"/>
+       <phase duration="40" state="rrrrrrrryyy"/>
+   </tl-logic>
+   <tl-logic id="296666718" type="static" programID="1" offset="0">
+       <phase duration="32" state="GGGgrrrGGgg"/>
+       <phase duration="5" state="yyygrrryygg"/>
+       <phase duration="40" state="rrrGrrrrrGG"/>
+       <phase duration="5" state="rrryrrrrryy"/>
+       <phase duration="5" state="rrrrGGGrrrr"/>
+       <phase duration="28" state="rrrryyyrrrr"/>
+   </tl-logic>
+   <tl-logic id="296734962" type="static" programID="1" offset="0">
+       <phase duration="37" state="GGrr"/>
+       <phase duration="40" state="yyrr"/>
+       <phase duration="5" state="rrGG"/>
+       <phase duration="40" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296734964" type="static" programID="1" offset="0">
+       <phase duration="5" state="GGrr"/>
+       <phase duration="40" state="yyrr"/>
+       <phase duration="30" state="rrGG"/>
+       <phase duration="40" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296734968" type="static" programID="1" offset="0">
+       <phase duration="15" state="GGrr"/>
+       <phase duration="5" state="yyrr"/>
+       <phase duration="39" state="rrGG"/>
+       <phase duration="12" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296734976" type="static" programID="1" offset="0">
+       <phase duration="33" state="GGrr"/>
+       <phase duration="5" state="yyrr"/>
+       <phase duration="37" state="rrGG"/>
+       <phase duration="5" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296734980" type="static" programID="1" offset="0">
+       <phase duration="39" state="GGrr"/>
+       <phase duration="40" state="yyrr"/>
+       <phase duration="5" state="rrGG"/>
+       <phase duration="40" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296734981" type="static" programID="1" offset="0">
+       <phase duration="36" state="GGrr"/>
+       <phase duration="5" state="yyrr"/>
+       <phase duration="18" state="rrGG"/>
+       <phase duration="40" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296734996" type="static" programID="1" offset="0">
+       <phase duration="5" state="GGrr"/>
+       <phase duration="40" state="yyrr"/>
+       <phase duration="40" state="rrGG"/>
+       <phase duration="40" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296735001" type="static" programID="1" offset="0">
+       <phase duration="27" state="GGrr"/>
+       <phase duration="5" state="yyrr"/>
+       <phase duration="40" state="rrGG"/>
+       <phase duration="5" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="296735005" type="static" programID="1" offset="0">
+       <phase duration="40" state="GGrr"/>
+       <phase duration="5" state="yyrr"/>
+       <phase duration="39" state="rrGG"/>
+       <phase duration="40" state="rryy"/>
+   </tl-logic>
+   <tl-logic id="297133314" type="static" programID="1" offset="0">
+       <phase duration="5" state="GGGrr"/>
+       <phase duration="40" state="yyyrr"/>
+       <phase duration="25" state="rrrGG"/>
+       <phase duration="34" state="rrryy"/>
+   </tl-logic>
+   <tl-logic id="301844169" type="static" programID="1" offset="0">
+       <phase duration="40" state="GgGr"/>
+       <phase duration="5" state="yyyr"/>
+       <phase duration="5" state="rrGG"/>
+       <phase duration="34" state="rryy"/>
+   </tl-logic>
+</additional>

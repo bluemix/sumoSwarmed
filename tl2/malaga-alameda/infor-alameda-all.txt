@@ -1,0 +1,9 @@
+20 malaga-alameda alameda 78 100 500
+20 malaga-alameda alameda 78 300 500
+20 malaga-alameda alameda 78 500 500
+30 malaga-alameda alameda 130 100 500
+30 malaga-alameda alameda 130 300 500
+30 malaga-alameda alameda 130 500 500
+40 malaga-alameda alameda 184 100 500
+40 malaga-alameda alameda 184 300 500
+40 malaga-alameda alameda 184 500 500

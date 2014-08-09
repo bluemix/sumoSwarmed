@@ -1,0 +1,4 @@
+
+Vehicles arriving:  501 , vehicles not arriving:  -1 , total duration:  155621 total (green/red):  0.867756 
+ Vehicles arriving:  501 , vehicles not arriving:  -1 , total duration:  155621 total (green/red):  0.867756 
+ 

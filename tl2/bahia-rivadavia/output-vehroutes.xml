@@ -1,0 +1,598 @@
+<?xml version="1.0"?>
+
+<!-- generated on Tue Jun  8 14:31:54 2010 by SUMO sumo Version 0.11.1
+<configuration>
+
+    <input>
+        <net-file value="condor/tl2/bahia-rivadavia/rivadavia.net.xml"/>
+        <route-files value="condor/tl2/bahia-rivadavia/rivadavia.rou.xml"/>
+        <additional-files value="condor/tl2/bahia-rivadavia/tl-logic.add.xml"/>
+    </input>
+
+    <output>
+        <netstate-dump value="condor/tl2/bahia-rivadavia/rivadavia.sumo.tr"/>
+        <emissions-output value="condor/tl2/bahia-rivadavia/output-emissions.xml"/>
+        <tripinfo-output value="condor/tl2/bahia-rivadavia/output-tripinfos.xml"/>
+        <vehroute-output value="condor/tl2/bahia-rivadavia/output-vehroutes.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="500"/>
+    </time>
+
+    <processing>
+        <route-steps value="-1"/>
+        <time-to-teleport value="-1"/>
+    </processing>
+
+    <report>
+        <print-options value="false"/>
+        <suppress-warnings value="true"/>
+    </report>
+
+    <random_number>
+        <srand value="23423"/>
+    </random_number>
+
+    <gui_only>
+        <gui-settings-file value=""/>
+    </gui_only>
+
+</configuration>
+-->
+
+<routes>
+    <vehicle id="Rand68" depart="3" arrival="20">
+        <route edges="27082628#1 28813885#1"/>
+   </vehicle>
+
+    <vehicle id="Rand204" depart="0" arrival="26">
+        <route edges="27082628#3 27082628#4 -27082628#4"/>
+   </vehicle>
+
+    <vehicle id="Rand582" depart="0" arrival="32">
+        <route edges="27082628#2 27082628#3 27082628#4 27082628#5"/>
+   </vehicle>
+
+    <vehicle id="Rand263" depart="3" arrival="34">
+        <route edges="27053106#3 27053106#4"/>
+   </vehicle>
+
+    <vehicle id="Rand128" depart="0" arrival="38">
+        <route edges="27052071#0 27052071#1 27053171#1"/>
+   </vehicle>
+
+    <vehicle id="Rand173" depart="0" arrival="40">
+        <route edges="28629700#2 27052069#0 27052069#1"/>
+   </vehicle>
+
+    <vehicle id="Rand110" depart="0" arrival="41">
+        <route edges="27052069#0 27052071#1 27053171#1"/>
+   </vehicle>
+
+    <vehicle id="Rand418" depart="9" arrival="42">
+        <route edges="27078417#3 27082617#3 27077992#1"/>
+   </vehicle>
+
+    <vehicle id="Rand538" depart="6" arrival="50">
+        <route edges="28813885#2 27078417#1 27082600#3 27082600#4"/>
+   </vehicle>
+
+    <vehicle id="Rand351" depart="6" arrival="52">
+        <route edges="27053786#3 27053791#4 28408742#1 27053790#1"/>
+   </vehicle>
+
+    <vehicle id="Rand255" depart="1" arrival="52">
+        <route edges="-27082628#1 -27082628#0 27082629#5"/>
+   </vehicle>
+
+    <vehicle id="Rand335" depart="6" arrival="54">
+        <route edges="27082625#1 27082625#2 27082624#1 27053791#3 27053791#4"/>
+   </vehicle>
+
+    <vehicle id="Rand555" depart="6" arrival="55">
+        <route edges="27082617#1 27053782#1 27082616#4 27082616#5"/>
+   </vehicle>
+
+    <vehicle id="Rand485" depart="3" arrival="57">
+        <route edges="27083337#2 27083337#3 27083337#4 27053171#0"/>
+   </vehicle>
+
+    <vehicle id="Rand4" depart="10" arrival="58">
+        <route edges="27053791#3 27053786#4 27053786#5"/>
+   </vehicle>
+
+    <vehicle id="Rand5" depart="0" arrival="63">
+        <route edges="27053106#2 27053106#3 27053106#4 27122600#0"/>
+   </vehicle>
+
+    <vehicle id="Rand314" depart="5" arrival="66">
+        <route edges="-27082628#1 -27082628#0 27082629#5 27082629#6 27082629#7"/>
+   </vehicle>
+
+    <vehicle id="Rand60" depart="13" arrival="66">
+        <route edges="28629700#2 27052069#0 27052069#1 27154183#3"/>
+   </vehicle>
+
+    <vehicle id="Rand195" depart="0" arrival="71">
+        <route edges="-28629700#1 -28629700#0 28629700#0"/>
+   </vehicle>
+
+    <vehicle id="Rand602" depart="3" arrival="75">
+        <route edges="27082600#1 27082600#2 27078417#2 27082616#3 27053782#2"/>
+   </vehicle>
+
+    <vehicle id="Rand495" depart="6" arrival="76">
+        <route edges="27122600#1 27056035#0 27056035#1 27083337#2 27083337#3"/>
+   </vehicle>
+
+    <vehicle id="Rand162" depart="0" arrival="79">
+        <route edges="27082600#0 27053170#2 27053170#3 27082617#1 27053782#1"/>
+   </vehicle>
+
+    <vehicle id="Rand553" depart="3" arrival="80">
+        <route edges="-27082628#4 27082616#1 27077992#2 27082600#4"/>
+   </vehicle>
+
+    <vehicle id="Rand88" depart="9" arrival="85">
+        <route edges="27082600#0 27053170#2 27082616#5 27053106#2"/>
+   </vehicle>
+
+    <vehicle id="Rand584" depart="6" arrival="85">
+        <route edges="-27082628#3 27082628#3 27082616#1 27082616#2 27078417#3"/>
+   </vehicle>
+
+    <vehicle id="Rand326" depart="3" arrival="86">
+        <route edges="27154183#3 27082600#0 27082600#1 27082600#2 27078417#2"/>
+   </vehicle>
+
+    <vehicle id="Rand95" depart="0" arrival="88">
+        <route edges="27082616#1 27077992#2 27077992#3 28813885#2"/>
+   </vehicle>
+
+    <vehicle id="Rand612" depart="3" arrival="92">
+        <route edges="28408742#2 28408742#3 28408742#4"/>
+   </vehicle>
+
+    <vehicle id="Rand157" depart="0" arrival="92">
+        <route edges="27083337#4 27053171#0 27053171#1 27053171#2 27055797#1 27639462#0"/>
+   </vehicle>
+
+    <vehicle id="Rand563" depart="6" arrival="94">
+        <route edges="27082616#2 27082616#3 27082616#4 27082616#5 27053106#2 27082600#0"/>
+   </vehicle>
+
+    <vehicle id="Rand621" depart="0" arrival="96">
+        <route edges="27053106#1 27053106#2 27082600#0 27053170#2 27053170#3 27082617#1 27082617#2"/>
+   </vehicle>
+
+    <vehicle id="Rand228" depart="3" arrival="97">
+        <route edges="27053786#3 27053791#4 28408742#1 28408742#2 28408742#3 27052067#1"/>
+   </vehicle>
+
+    <vehicle id="Rand441" depart="6" arrival="98">
+        <route edges="27082617#2 27082617#3 27077992#1 27077992#2 27082600#4"/>
+   </vehicle>
+
+    <vehicle id="Rand412" depart="3" arrival="98">
+        <route edges="27082616#3 27082616#4 27082616#5 27055797#0 27055797#1"/>
+   </vehicle>
+
+    <vehicle id="Rand504" depart="12" arrival="99">
+        <route edges="27082616#5 27053106#2 27053106#3 27052071#0 27052069#1 27154183#3"/>
+   </vehicle>
+
+    <vehicle id="Rand117" depart="0" arrival="101">
+        <route edges="27154183#3 27082600#0 27082600#1 27082600#2 27078417#2 27082616#3"/>
+   </vehicle>
+
+    <vehicle id="Rand359" depart="8" arrival="104">
+        <route edges="-27082628#1 27082628#1 28813885#1 28813885#2 27078417#1 27078417#2 27078417#3 27078417#4"/>
+   </vehicle>
+
+    <vehicle id="Rand529" depart="3" arrival="105">
+        <route edges="27082617#1 27053782#1 27082616#4 27082616#5 27055797#0 27053171#3"/>
+   </vehicle>
+
+    <vehicle id="Rand102" depart="0" arrival="108">
+        <route edges="27077992#2 27077992#3 28813885#2 28813885#3 27053782#4 27083324#0 27083324#1"/>
+   </vehicle>
+
+    <vehicle id="Rand409" depart="6" arrival="109">
+        <route edges="27082616#0 -27082628#3"/>
+   </vehicle>
+
+    <vehicle id="Rand308" depart="0" arrival="111">
+        <route edges="27078417#3 27082617#3 27077992#1 27077992#2 27077992#3 28813885#2 28813885#3"/>
+   </vehicle>
+
+    <vehicle id="Rand542" depart="12" arrival="111">
+        <route edges="27077992#4 27082604#3 27082604#4 -27082605"/>
+   </vehicle>
+
+    <vehicle id="Rand45" depart="6" arrival="112">
+        <route edges="27083337#1 27083337#2 27083337#3 27083337#4 27053171#0 27052071#2 27639462#2"/>
+   </vehicle>
+
+    <vehicle id="Rand154" depart="3" arrival="115">
+        <route edges="27082629#4 27082629#5 27082629#6"/>
+   </vehicle>
+
+    <vehicle id="Rand565" depart="9" arrival="117">
+        <route edges="27052069#1 27154183#3 27082600#0 27053170#2 27082616#5"/>
+   </vehicle>
+
+    <vehicle id="Rand312" depart="3" arrival="118">
+        <route edges="27056034#2 -27494703#0 27056035#1"/>
+   </vehicle>
+
+    <vehicle id="Rand389" depart="3" arrival="120">
+        <route edges="27053171#1 27154183#2 27154183#3 27053106#3"/>
+   </vehicle>
+
+    <vehicle id="Rand430" depart="6" arrival="122">
+        <route edges="27154183#3 27082600#0 27082600#1 27082600#2 27078417#2 27078417#3 27082617#3"/>
+   </vehicle>
+
+    <vehicle id="Rand297" depart="1" arrival="122">
+        <route edges="27082628#5 -27082628#5 27082617#5"/>
+   </vehicle>
+
+    <vehicle id="Rand567" depart="12" arrival="123">
+        <route edges="27053170#0 27053170#1 27082600#1 27082600#2 27078417#2 27078417#3 27082617#3 27077992#1"/>
+   </vehicle>
+
+    <vehicle id="Rand408" depart="9" arrival="123">
+        <route edges="27494703#1 -27494703#1"/>
+   </vehicle>
+
+    <vehicle id="Rand119" depart="0" arrival="123">
+        <route edges="27082616#0 27082616#1 27082616#2"/>
+   </vehicle>
+
+    <vehicle id="Rand122" depart="0" arrival="124">
+        <route edges="27082629#4 27082629#5 27082625#0 27082625#1 27486761"/>
+   </vehicle>
+
+    <vehicle id="Rand534" depart="12" arrival="125">
+        <route edges="28813885#1 27077992#4 27082604#3 27082604#4 27082604#5"/>
+   </vehicle>
+
+    <vehicle id="Rand363" depart="0" arrival="125">
+        <route edges="27082629#2 27082629#3 27082629#4"/>
+   </vehicle>
+
+    <vehicle id="Rand571" depart="30" arrival="126">
+        <route edges="27082616#5 27053106#2 27082600#0 27082600#1 27082600#2 27082600#3"/>
+   </vehicle>
+
+    <vehicle id="Rand188" depart="3" arrival="126">
+        <route edges="27082629#1 27083324#1 27082624#4"/>
+   </vehicle>
+
+    <vehicle id="Rand256" depart="6" arrival="130">
+        <route edges="28813885#3 27053782#4 27082604#1 27078417#0 27078417#1"/>
+   </vehicle>
+
+    <vehicle id="Rand434" depart="9" arrival="131">
+        <route edges="27082604#1 27078417#0 27078417#1 27082600#3 27082600#4"/>
+   </vehicle>
+
+    <vehicle id="Rand440" depart="9" arrival="132">
+        <route edges="27053171#0 27053171#1 27154183#2 27154183#3 27053106#3"/>
+   </vehicle>
+
+    <vehicle id="Rand622" depart="12" arrival="135">
+        <route edges="27082604#1 27078417#0 27078417#1 27082600#3 27077992#3"/>
+   </vehicle>
+
+    <vehicle id="Rand139" depart="0" arrival="136">
+        <route edges="27053106#3 27052071#0 27052071#1 27053171#1 27053171#2 27055797#1 27639462#0 27639462#1"/>
+   </vehicle>
+
+    <vehicle id="Rand138" depart="3" arrival="138">
+        <route edges="27053170#2 27053170#3 27082617#1 27082617#2 27082617#3 27077992#1 27077992#2 27077992#3 27077992#4"/>
+   </vehicle>
+
+    <vehicle id="Rand347" depart="0" arrival="139">
+        <route edges="27082604#0 27083324#0 27083324#1 27083324#2 27053786#2"/>
+   </vehicle>
+
+    <vehicle id="Rand70" depart="36" arrival="139">
+        <route edges="27082616#5 27055797#0 27055797#1 27639462#0 27639462#1"/>
+   </vehicle>
+
+    <vehicle id="Rand606" depart="27" arrival="148">
+        <route edges="27077992#4 27082604#3 27082628#1 27082628#2"/>
+   </vehicle>
+
+    <vehicle id="Rand592" depart="34" arrival="151">
+        <route edges="27052069#0 27052069#1 27154183#3 27082600#0 27082600#1 27082600#2"/>
+   </vehicle>
+
+    <vehicle id="Rand91" depart="12" arrival="156">
+        <route edges="-28629700#1 28629700#1 27053171#0 27053171#1 27053171#2 27055797#1"/>
+   </vehicle>
+
+    <vehicle id="Rand367" depart="3" arrival="157">
+        <route edges="27056035#1 27056035#2 27056027#2 27056036#1"/>
+   </vehicle>
+
+    <vehicle id="Rand333" depart="7" arrival="157">
+        <route edges="-28629700#1 28629700#1 27053171#0 27053171#1 27154183#2 27154183#3"/>
+   </vehicle>
+
+    <vehicle id="Rand210" depart="0" arrival="158">
+        <route edges="27082624#5 27056035#0 27494703#0 -27494703#0"/>
+   </vehicle>
+
+    <vehicle id="Rand525" depart="6" arrival="159">
+        <route edges="27053790#4 27082604#2 27082604#3 -27082628#0 27082629#5 27082629#6"/>
+   </vehicle>
+
+    <vehicle id="Rand309" depart="3" arrival="163">
+        <route edges="27154183#2 27154183#3 27082600#0 27082600#1 27082600#2 27082600#3"/>
+   </vehicle>
+
+    <vehicle id="Rand615" depart="24" arrival="164">
+        <route edges="27053106#3 27053106#4 -28629700#3 -28629700#2"/>
+   </vehicle>
+
+    <vehicle id="Rand429" depart="3" arrival="169">
+        <route edges="27082604#2 27082604#3 27082628#1 28813885#1 28813885#2"/>
+   </vehicle>
+
+    <vehicle id="Rand137" depart="0" arrival="170">
+        <route edges="28813885#5 27052071#0 27052069#1 27154183#3 27082600#0 27053170#2 27053170#3 27082617#1 27082617#2"/>
+   </vehicle>
+
+    <vehicle id="Rand411" depart="3" arrival="172">
+        <route edges="27082604#3 27082628#1 28813885#1 28813885#2 28813885#3"/>
+   </vehicle>
+
+    <vehicle id="Rand470" depart="3" arrival="176">
+        <route edges="27083337#3 27083337#4 28629700#2 28629700#3 -28629700#3"/>
+   </vehicle>
+
+    <vehicle id="Rand331" depart="3" arrival="177">
+        <route edges="27052067#4 27053170#0 27053170#1 27053170#2 27053170#3 27082617#1 27053782#1"/>
+   </vehicle>
+
+    <vehicle id="Rand230" depart="1" arrival="178">
+        <route edges="-28629700#3 -28629700#2 -28629700#1 28629700#1"/>
+   </vehicle>
+
+    <vehicle id="Rand421" depart="3" arrival="180">
+        <route edges="27639510 27083337#3 27083337#4 -28629700#1 -28629700#0"/>
+   </vehicle>
+
+    <vehicle id="Rand360" depart="0" arrival="181">
+        <route edges="27056034#3 27122600#1 27056035#0 27056035#1 27083337#2 27083337#3 27083337#4 28629700#2 -28629700#2"/>
+   </vehicle>
+
+    <vehicle id="Rand277" depart="3" arrival="183">
+        <route edges="27077992#4 27082604#3 27082628#1 28813885#1 28813885#2 28813885#3"/>
+   </vehicle>
+
+    <vehicle id="Rand564" depart="3" arrival="183">
+        <route edges="27082629#2 27053790#4 27078417#0 27078417#1 27078417#2 27078417#3 27082617#3 27077992#1"/>
+   </vehicle>
+
+    <vehicle id="Rand424" depart="39" arrival="183">
+        <route edges="27154183#2 27154183#3 27082600#0 27082600#1 27082600#2"/>
+   </vehicle>
+
+    <vehicle id="Rand32" depart="4" arrival="183">
+        <route edges="-28629700#1 28629700#1 28629700#2 27052069#0 27052071#1"/>
+   </vehicle>
+
+    <vehicle id="Rand237" depart="0" arrival="184">
+        <route edges="28813885#0 -27082628#1 -27082628#0 27082629#5 27082625#0 27082625#1 27082625#2 27082624#1"/>
+   </vehicle>
+
+    <vehicle id="Rand595" depart="12" arrival="185">
+        <route edges="27056027#2 27056036#1 27083337#1 27083337#2 27083337#3 27083337#4 -28629700#1 -28629700#0"/>
+   </vehicle>
+
+    <vehicle id="Rand310" depart="3" arrival="191">
+        <route edges="27486761 27053791#2 27053791#3 27053791#4 28408742#1 27053790#1"/>
+   </vehicle>
+
+    <vehicle id="Rand0" depart="0" arrival="193">
+        <route edges="27082624#0 27082624#1 27053791#3 27053791#4 28408742#1 27053790#1"/>
+   </vehicle>
+
+    <vehicle id="Rand427" depart="6" arrival="197">
+        <route edges="27154183#1 27154183#2 27154183#3 27082600#0 27053170#2 27053170#3 27053170#4"/>
+   </vehicle>
+
+    <vehicle id="Rand586" depart="49" arrival="197">
+        <route edges="28813885#1 27077992#4 27082604#3 -27082628#0 27082629#5 27082625#0 27082625#1 27082625#2 27082625#3 27053786#5"/>
+   </vehicle>
+
+    <vehicle id="Rand282" depart="3" arrival="198">
+        <route edges="27056027#2 27056036#1 27083337#1 27083337#2 27083337#3 27083337#4 27053171#0 27053171#1 27053171#2 27055797#1"/>
+   </vehicle>
+
+    <vehicle id="Rand184" depart="0" arrival="199">
+        <route edges="-27494703#0 27056035#1 27083337#2 27083337#3 27083337#4 27053171#0 27053171#1 27154183#2 27154183#3"/>
+   </vehicle>
+
+    <vehicle id="Rand469" depart="3" arrival="200">
+        <route edges="27078417#1 27082600#3 27077992#3 28813885#2 28813885#3 27053782#4 27083324#0 27083324#1 27082624#4 27052067#3"/>
+   </vehicle>
+
+    <vehicle id="Rand305" depart="0" arrival="205">
+        <route edges="27056035#0 27494703#0 27056034#3 27082629#0 27052067#4"/>
+   </vehicle>
+
+    <vehicle id="Rand372" depart="3" arrival="210">
+        <route edges="27154183#1 27154183#2 27154183#3 27082600#0 27053170#2 27053170#3 27082617#1 27082617#2"/>
+   </vehicle>
+
+    <vehicle id="Rand247" depart="0" arrival="212">
+        <route edges="27056034#1 27083337#4 27053171#0 27053171#1 27154183#2 27154183#3 27082600#0 27053170#2 27053170#3"/>
+   </vehicle>
+
+    <vehicle id="Rand444" depart="6" arrival="214">
+        <route edges="27053171#1 27154183#2 27154183#3 27082600#0 27082600#1 27082600#2 27078417#2 27082616#3 27053782#2"/>
+   </vehicle>
+
+    <vehicle id="Rand379" depart="0" arrival="218">
+        <route edges="27052071#1 27053171#1 27154183#2 27154183#3 27082600#0 27082600#1 27082600#2 27078417#2 27082616#3 27053782#2"/>
+   </vehicle>
+
+    <vehicle id="Rand15" depart="0" arrival="218">
+        <route edges="27082625#2 27082624#1 27082624#2 27082624#3 27083324#2 27083324#3"/>
+   </vehicle>
+
+    <vehicle id="Rand306" depart="3" arrival="220">
+        <route edges="27082617#4 -27082628#4 27082616#1 27082616#2 27078417#3"/>
+   </vehicle>
+
+    <vehicle id="Rand18" depart="9" arrival="221">
+        <route edges="27053786#2 27053786#3 27053786#4"/>
+   </vehicle>
+
+    <vehicle id="Rand422" depart="3" arrival="226">
+        <route edges="27053106#0 27053106#1 27055797#0 27055797#1 27639462#0 27154183#1"/>
+   </vehicle>
+
+    <vehicle id="Rand262" depart="0" arrival="227">
+        <route edges="27082628#5 -27082628#5 -27082628#4 27082616#1 27077992#2 27082600#4"/>
+   </vehicle>
+
+    <vehicle id="Rand33" depart="0" arrival="231">
+        <route edges="27082628#1 27082628#2 27082628#3 27082628#4 -27082628#4"/>
+   </vehicle>
+
+    <vehicle id="Rand460" depart="9" arrival="245">
+        <route edges="27052071#1 27053171#1 27154183#2 27154183#3 27082600#0 27082600#1 27082600#2 27078417#2 27082616#3 27053782#2"/>
+   </vehicle>
+
+    <vehicle id="Rand512" depart="6" arrival="253">
+        <route edges="27078417#1 27082600#3 27077992#3 28813885#2 28813885#3 27053782#4 27082604#1 27078417#0"/>
+   </vehicle>
+
+    <vehicle id="Rand526" depart="0" arrival="258">
+        <route edges="27052067#3 27052067#4 27053170#0 27053170#1 27082600#1 27053782#3"/>
+   </vehicle>
+
+    <vehicle id="Rand497" depart="52" arrival="265">
+        <route edges="27154183#2 27154183#3 27082600#0 27082600#1 27082600#2 27078417#2 27078417#3 27082617#3 27082617#4"/>
+   </vehicle>
+
+    <vehicle id="Rand577" depart="8" arrival="266">
+        <route edges="-28629700#3 -28629700#2 -28629700#1 27056027#0 27056027#1 27056027#2 27056027#3"/>
+   </vehicle>
+
+    <vehicle id="Rand419" depart="6" arrival="269">
+        <route edges="27055797#1 27639462#0 27154183#1 27154183#2 27154183#3 27082600#0 27082600#1 27082600#2 27078417#2 27078417#3 27082617#3 27082617#4"/>
+   </vehicle>
+
+    <vehicle id="Rand73" depart="9" arrival="275">
+        <route edges="28813885#4 27053170#1 27082600#1 27082600#2 27082600#3 27077992#3 27077992#4 27082604#3"/>
+   </vehicle>
+
+    <vehicle id="Rand7" depart="6" arrival="277">
+        <route edges="28408742#2 28408742#3 27052067#1 27052067#2 27082624#5"/>
+   </vehicle>
+
+    <vehicle id="Rand557" depart="9" arrival="287">
+        <route edges="27082629#1 27082629#2 27053790#4 27078417#0 27078417#1 27078417#2 27078417#3 27082617#3 27077992#1"/>
+   </vehicle>
+
+    <vehicle id="Rand214" depart="0" arrival="293">
+        <route edges="28629700#0 28629700#1 27053171#0 27053171#1 27154183#2 27154183#3 27053106#3"/>
+   </vehicle>
+
+    <vehicle id="Rand283" depart="6" arrival="294">
+        <route edges="27082604#1 27082604#2 27082604#3 27082628#1 28813885#1"/>
+   </vehicle>
+
+    <vehicle id="Rand575" depart="6" arrival="314">
+        <route edges="27056034#3 27082629#0 27082629#1 27082629#2 27053790#4 27078417#0"/>
+   </vehicle>
+
+    <vehicle id="Rand506" depart="6" arrival="315">
+        <route edges="-27494703#0 27494703#0 27056034#3 27082629#0 27052067#4 27082604#0 27083324#0"/>
+   </vehicle>
+
+    <vehicle id="Rand87" depart="6" arrival="331">
+        <route edges="27494703#0 27494703#1 -28629700#2 -28629700#1 28629700#1"/>
+   </vehicle>
+
+    <vehicle id="Rand481" depart="6" arrival="333">
+        <route edges="27056034#0 27056034#1 27083337#4 27053171#0 27053171#1 27154183#2 27154183#3 27082600#0"/>
+   </vehicle>
+
+    <vehicle id="Rand189" depart="0" arrival="340">
+        <route edges="27083337#3 27056034#2 27056034#3 27082629#0 27052067#4 27053170#0 27053170#1"/>
+   </vehicle>
+
+    <vehicle id="Rand523" depart="6" arrival="366">
+        <route edges="27154183#0 27154183#1"/>
+   </vehicle>
+
+    <vehicle id="Rand467" depart="9" arrival="369">
+        <route edges="27053106#3 27053106#4 -28629700#3 -28629700#2 -28629700#1 28629700#1"/>
+   </vehicle>
+
+    <vehicle id="Rand94" depart="6" arrival="372">
+        <route edges="27053782#2 27082600#2 27082600#3 27082600#4 27082628#3 27082628#4 27082628#5"/>
+   </vehicle>
+
+    <vehicle id="Rand225" depart="0" arrival="376">
+        <route edges="27083337#2 27083337#3 27056034#2 27056034#3 27122600#1 27056035#0"/>
+   </vehicle>
+
+    <vehicle id="Rand317" depart="9" arrival="379">
+        <route edges="28813885#1 27077992#4 27082604#3 27082628#1 27082628#2 27082628#3 27082628#4 -27082628#4"/>
+   </vehicle>
+
+    <vehicle id="Rand510" depart="6" arrival="380">
+        <route edges="27083324#0 27083324#1 27083324#2 27083324#3 28408742#3"/>
+   </vehicle>
+
+    <vehicle id="Rand329" depart="6" arrival="388">
+        <route edges="27494703#1 -28629700#2 -28629700#1 27056027#0 27056034#1 27056034#2"/>
+   </vehicle>
+
+    <vehicle id="Rand96" depart="3" arrival="392">
+        <route edges="-27082628#5 -27082628#4 -27082628#3 -27082628#2 -27082628#1 -27082628#0 27082629#5 27082625#0 27082625#1 27082625#2 27082624#1 27082624#2"/>
+   </vehicle>
+
+    <vehicle id="Rand549" depart="9" arrival="411">
+        <route edges="27083324#3 28408742#3 27052067#1 27052067#2 27082624#5"/>
+   </vehicle>
+
+    <vehicle id="Rand607" depart="24" arrival="412">
+        <route edges="27053786#2 27053786#3 27053791#4 27053791#5"/>
+   </vehicle>
+
+    <vehicle id="Rand316" depart="0" arrival="469">
+        <route edges="27078417#0 27078417#1 27082600#3 27082600#4 -27082628#2"/>
+   </vehicle>
+
+    <vehicle id="Rand272" depart="0" arrival="473">
+        <route edges="27154183#0 27154183#1 27154183#2 27154183#3 27082600#0 27053170#2 27053170#3 27082617#1"/>
+   </vehicle>
+
+    <vehicle id="Rand101" depart="0" arrival="483">
+        <route edges="27082600#3 27082600#4 -27082628#2 -27082628#1 -27082628#0 27082629#5 27082625#0 27082625#1 27082625#2 27082624#1"/>
+   </vehicle>
+
+    <vehicle id="Rand35" depart="0" arrival="487">
+        <route edges="27082617#3 27082617#4 -27082628#4 -27082628#3 -27082628#2 -27082628#1 -27082628#0 27082629#5 27082625#0 27082625#1 27082625#2 27082625#3"/>
+   </vehicle>
+
+    <vehicle id="Rand264" depart="0" arrival="489">
+        <route edges="27082616#3 27053782#2 27053782#3 27053782#4 27083324#0 27083324#1 27082624#4"/>
+   </vehicle>
+
+    <vehicle id="Rand614" depart="6" arrival="499">
+        <route edges="28629700#3 27122600#0 27082629#0 27052067#4 27053170#0 27053170#1 27053170#2 27053170#3 27082617#1"/>
+   </vehicle>
+
+</routes>

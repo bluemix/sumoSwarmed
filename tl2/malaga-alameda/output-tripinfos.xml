@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+
+<!-- generated on Wed Jun  9 13:04:09 2010 by SUMO sumo Version 0.11.1
+<configuration>
+
+    <input>
+        <net-file value="condor/tl2/malaga-alameda/alameda.net.xml"/>
+        <route-files value="condor/tl2/malaga-alameda/alameda.rou.xml"/>
+        <additional-files value="condor/tl2/malaga-alameda/tl-logic.add.xml"/>
+    </input>
+
+    <output>
+        <netstate-dump value="condor/tl2/malaga-alameda/alameda.sumo.tr"/>
+        <emissions-output value="condor/tl2/malaga-alameda/output-emissions.xml"/>
+        <tripinfo-output value="condor/tl2/malaga-alameda/output-tripinfos.xml"/>
+        <vehroute-output value="condor/tl2/malaga-alameda/output-vehroutes.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="500"/>
+    </time>
+
+    <processing>
+        <route-steps value="-1"/>
+        <time-to-teleport value="-1"/>
+    </processing>
+
+    <report>
+        <print-options value="false"/>
+        <suppress-warnings value="true"/>
+    </report>
+
+    <random_number>
+        <srand value="23423"/>
+    </random_number>
+
+    <gui_only>
+        <gui-settings-file value=""/>
+    </gui_only>
+
+</configuration>
+-->
+
+<tripinfos>
+    <tripinfo id="Rand107" depart="0" departLane="27617819#4_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="8" arrivalLane="-27617819#4_0" arrivalPos="6.07" arrivalSpeed="7.41" duration="8" routeLength="38.61" waitSteps="0" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand143" depart="0" departLane="30098199#1_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="9" arrivalLane="35903166#1_0" arrivalPos="10.53" arrivalSpeed="10.92" duration="9" routeLength="64.92" waitSteps="0" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand165" depart="0" departLane="61278965_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="10" arrivalLane="-35903198#1_0" arrivalPos="5.02" arrivalSpeed="7.58" duration="10" routeLength="60.82" waitSteps="0" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand91" depart="0" departLane="61279128#0_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="17" arrivalLane="61279142#0_0" arrivalPos="5.34" arrivalSpeed="19.54" duration="17" routeLength="157.42" waitSteps="0" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand16" depart="3" departLane="-27617819#3_0" departPos="0.00" departSpeed="0.00" departDelay="3" arrival="18" arrivalLane="-30098185#3_0" arrivalPos="11.81" arrivalSpeed="12.80" duration="15" routeLength="112.83" waitSteps="0" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand152" depart="0" departLane="23162032#4_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="23" arrivalLane="35773427#0_0" arrivalPos="9.68" arrivalSpeed="13.54" duration="23" routeLength="235.29" waitSteps="0" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand79" depart="3" departLane="34474997#2_0" departPos="0.00" departSpeed="0.00" departDelay="3" arrival="24" arrivalLane="30098185#1_0" arrivalPos="2.00" arrivalSpeed="6.11" duration="21" routeLength="81.17" waitSteps="4" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand210" depart="3" departLane="35773427#2_0" departPos="0.00" departSpeed="0.00" departDelay="3" arrival="24" arrivalLane="34474997#3_1" arrivalPos="3.31" arrivalSpeed="6.88" duration="21" routeLength="128.01" waitSteps="0" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand213" depart="5" departLane="27617865#1_0" departPos="0.00" departSpeed="0.00" departDelay="5" arrival="27" arrivalLane="35901883#4_0" arrivalPos="0.78" arrivalSpeed="6.01" duration="22" routeLength="168.36" waitSteps="0" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand118" depart="0" departLane="23162032#3_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="36" arrivalLane="35773427#1_0" arrivalPos="6.46" arrivalSpeed="8.19" duration="36" routeLength="352.56" waitSteps="0" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand167" depart="7" departLane="34474997#5_0" departPos="0.00" departSpeed="0.00" departDelay="7" arrival="42" arrivalLane="30098185#1_0" arrivalPos="4.55" arrivalSpeed="11.22" duration="35" routeLength="143.42" waitSteps="1" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand100" depart="0" departLane="-30098184#5_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="43" arrivalLane="-35773427#4_0" arrivalPos="3.61" arrivalSpeed="6.27" duration="43" routeLength="197.90" waitSteps="3" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand84" depart="0" departLane="35901883#2_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="45" arrivalLane="30098185#1_0" arrivalPos="3.36" arrivalSpeed="6.43" duration="45" routeLength="159.15" waitSteps="6" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand66" depart="6" departLane="35901888#0_0" departPos="0.00" departSpeed="0.00" departDelay="6" arrival="53" arrivalLane="34474997#5_1" arrivalPos="8.88" arrivalSpeed="14.86" duration="47" routeLength="133.23" waitSteps="21" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand153" depart="0" departLane="-30098184#0_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="56" arrivalLane="35773427#6_0" arrivalPos="1.04" arrivalSpeed="3.93" duration="56" routeLength="234.98" waitSteps="17" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand201" depart="11" departLane="61279128#1_0" departPos="0.00" departSpeed="0.00" departDelay="11" arrival="57" arrivalLane="61279128#0_1" arrivalPos="5.79" arrivalSpeed="7.47" duration="46" routeLength="251.87" waitSteps="14" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand131" depart="3" departLane="35901883#3_0" departPos="0.00" departSpeed="0.00" departDelay="3" arrival="72" arrivalLane="35900343#3_0" arrivalPos="4.16" arrivalSpeed="8.82" duration="69" routeLength="296.06" waitSteps="23" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand106" depart="0" departLane="35901883#3_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="85" arrivalLane="35902561_0" arrivalPos="0.19" arrivalSpeed="4.23" duration="85" routeLength="414.41" waitSteps="30" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand127" depart="0" departLane="-27617819#3_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="86" arrivalLane="27617828#1_0" arrivalPos="2.94" arrivalSpeed="9.59" duration="86" routeLength="351.10" waitSteps="36" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand151" depart="8" departLane="35900343#1_0" departPos="0.00" departSpeed="0.00" departDelay="8" arrival="90" arrivalLane="35901888#1_0" arrivalPos="2.07" arrivalSpeed="7.62" duration="82" routeLength="103.34" waitSteps="61" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand19" depart="0" departLane="-30098185#1_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="90" arrivalLane="27617850#0_0" arrivalPos="7.13" arrivalSpeed="10.80" duration="90" routeLength="207.53" waitSteps="43" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand57" depart="1" departLane="30098199#4_0" departPos="0.00" departSpeed="0.00" departDelay="1" arrival="95" arrivalLane="61279142#1_0" arrivalPos="4.75" arrivalSpeed="7.00" duration="94" routeLength="325.31" waitSteps="52" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand45" depart="3" departLane="-27617819#2_0" departPos="0.00" departSpeed="0.00" departDelay="3" arrival="124" arrivalLane="35901888#1_0" arrivalPos="3.29" arrivalSpeed="9.49" duration="121" routeLength="261.16" waitSteps="86" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand147" depart="0" departLane="27617819#1_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="125" arrivalLane="-35773427#4_0" arrivalPos="0.46" arrivalSpeed="6.99" duration="125" routeLength="241.55" waitSteps="83" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand138" depart="0" departLane="35901640#4_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="131" arrivalLane="30098198_0" arrivalPos="5.28" arrivalSpeed="7.27" duration="131" routeLength="177.01" waitSteps="95" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand44" depart="91" departLane="-27617850#2_0" departPos="0.00" departSpeed="0.00" departDelay="91" arrival="134" arrivalLane="35902125#1_0" arrivalPos="1.14" arrivalSpeed="3.54" duration="43" routeLength="4.25" waitSteps="38" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand125" depart="0" departLane="35903165#0_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="136" arrivalLane="61291538_0" arrivalPos="0.51" arrivalSpeed="7.61" duration="136" routeLength="274.42" waitSteps="81" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand184" depart="0" departLane="30098184#1_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="136" arrivalLane="30098198_0" arrivalPos="2.56" arrivalSpeed="5.37" duration="136" routeLength="469.43" waitSteps="59" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand199" depart="3" departLane="27617850#4_0" departPos="0.00" departSpeed="0.00" departDelay="3" arrival="144" arrivalLane="35902033#1_0" arrivalPos="4.16" arrivalSpeed="6.83" duration="141" routeLength="73.02" waitSteps="124" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand86" depart="0" departLane="-35773427#3_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="148" arrivalLane="35902564#2_0" arrivalPos="2.20" arrivalSpeed="5.27" duration="148" routeLength="143.77" waitSteps="110" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand105" depart="0" departLane="34474997#4_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="150" arrivalLane="-35773427#7_0" arrivalPos="6.06" arrivalSpeed="7.28" duration="150" routeLength="302.35" waitSteps="91" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand182" depart="0" departLane="35901888#1_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="152" arrivalLane="35901883#1_0" arrivalPos="1.46" arrivalSpeed="4.22" duration="152" routeLength="240.62" waitSteps="111" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand137" depart="0" departLane="35900338#0_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="154" arrivalLane="35902564#1_0" arrivalPos="2.92" arrivalSpeed="6.49" duration="154" routeLength="220.86" waitSteps="114" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand108" depart="0" departLane="35782161#1_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="165" arrivalLane="35901888#3_0" arrivalPos="1.65" arrivalSpeed="4.20" duration="165" routeLength="180.28" waitSteps="131" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand83" depart="0" departLane="35900343#3_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="168" arrivalLane="35901888#2_0" arrivalPos="0.49" arrivalSpeed="6.35" duration="168" routeLength="249.06" waitSteps="120" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand212" depart="125" departLane="30098199#6_0" departPos="0.00" departSpeed="0.00" departDelay="125" arrival="174" arrivalLane="-35773427#7_0" arrivalPos="5.06" arrivalSpeed="11.60" duration="49" routeLength="46.83" waitSteps="32" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand134" depart="0" departLane="-61279142#1_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="178" arrivalLane="43512899_0" arrivalPos="2.36" arrivalSpeed="8.02" duration="178" routeLength="277.88" waitSteps="130" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand12" depart="0" departLane="-35903198#0_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="180" arrivalLane="27131168#1_0" arrivalPos="1.53" arrivalSpeed="5.95" duration="180" routeLength="138.89" waitSteps="137" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand168" depart="0" departLane="30098185#2_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="190" arrivalLane="-35773427#6_0" arrivalPos="5.11" arrivalSpeed="6.63" duration="190" routeLength="274.95" waitSteps="142" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand196" depart="0" departLane="35902564#2_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="248" arrivalLane="27617828#0_0" arrivalPos="0.09" arrivalSpeed="5.64" duration="248" routeLength="550.79" waitSteps="133" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand155" depart="0" departLane="27131168#4_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="255" arrivalLane="35900343#0_1" arrivalPos="2.25" arrivalSpeed="7.68" duration="255" routeLength="140.09" waitSteps="222" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand176" depart="0" departLane="35901888#3_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="458" arrivalLane="30098184#0_0" arrivalPos="3.58" arrivalSpeed="6.17" duration="458" routeLength="357.48" waitSteps="386" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+    <tripinfo id="Rand0" depart="0" departLane="30098185#3_0" departPos="0.00" departSpeed="0.00" departDelay="0" arrival="488" arrivalLane="-30098185#1_0" arrivalPos="3.78" arrivalSpeed="5.06" duration="488" routeLength="230.14" waitSteps="443" rerouteNo="0" devices="" vtype="DEFAULT_VEHTYPE" vaporized=""></tripinfo>
+</tripinfos>

@@ -1,0 +1,2 @@
+2 2-intersections 2 16 500 1600
+tlLogics path1 path2 totalPhases(trafficLights) numVehicles simTime

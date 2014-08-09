@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-54' action='modify' visible='true' lat='-0.01008640707951676' lon='0.010370370985666393'>
+    <tag k='highway' v='mini_roundabout' />
+  </node>
+  <node id='-53' action='modify' visible='true' lat='0.010530754955218114' lon='0.010093788391611295'>
+    <tag k='highway' v='mini_roundabout' />
+  </node>
+  <node id='-52' action='modify' visible='true' lat='0.001970269615634466' lon='0.00997560482792239'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-20' action='modify' visible='true' lat='0.010295711543223257' lon='0.006886287941152818'>
+    <tag k='highway' v='mini_roundabout' />
+  </node>
+  <node id='-18' action='modify' visible='true' lat='-0.010030691884551928' lon='0.007259790072439103'>
+    <tag k='highway' v='mini_roundabout' />
+  </node>
+  <node id='-16' action='modify' visible='true' lat='0.0019165128786559366' lon='-0.003621298354897832'>
+    <tag k='highway' v='mini_roundabout' />
+  </node>
+  <node id='-14' action='modify' visible='true' lat='0.0019164061927338235' lon='0.006956337226968023'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-12' action='modify' visible='true' lat='0.0021103519529985407' lon='0.021612862034432065'>
+    <tag k='highway' v='mini_roundabout' />
+  </node>
+  <way id='-110' action='modify' visible='true'>
+    <nd ref='-16' />
+    <nd ref='-14' />
+    <nd ref='-52' />
+    <nd ref='-12' />
+    <tag k='highway' v='primary' />
+  </way>
+  <way id='-103' action='modify' visible='true'>
+    <nd ref='-18' />
+    <nd ref='-14' />
+    <nd ref='-20' />
+    <tag k='highway' v='primary' />
+  </way>
+  <way id='-51' action='modify' visible='true'>
+    <nd ref='-54' />
+    <nd ref='-52' />
+    <tag k='highway' v='primary' />
+  </way>
+  <way id='-50' visible='true'>
+    <nd ref='-52' />
+    <nd ref='-53' />
+    <tag k='highway' v='primary' />
+  </way>
+</osm>

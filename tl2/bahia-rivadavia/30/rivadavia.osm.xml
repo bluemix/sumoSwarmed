@@ -1,0 +1,1916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.0.2">
+ <bounds minlat="-38.72125" minlon="-62.26984" maxlat="-38.71284" maxlon="-62.2586"/>
+ <node id="198439791" lat="-38.7176804" lon="-62.2654621" user="IgnacioLopez" uid="68850" visible="true" version="5" changeset="2676414" timestamp="2009-09-29T13:19:38Z">
+  <tag k="is_in" v="Buenos Aires"/>
+  <tag k="is_in:continent" v="South America"/>
+  <tag k="name" v="Bahía Blanca"/>
+  <tag k="place" v="city"/>
+  <tag k="source_ref" v="http://earth-info.nga.mil/gns/html/cntyfile/ar.zip"/>
+ </node>
+ <node id="272170147" lat="-38.7146116" lon="-62.2600123" user="pablopareja" uid="211657" visible="true" version="2" changeset="3444199" timestamp="2009-12-24T17:38:05Z">
+  <tag k="amenity" v="fuel"/>
+  <tag k="name" v="Petrobras"/>
+  <tag k="note" v="Petrobras"/>
+ </node>
+ <node id="272170328" lat="-38.7209808" lon="-62.2630512" user="angasule" uid="67462" visible="true" version="2" changeset="44302" timestamp="2008-10-03T19:55:15Z">
+  <tag k="amenity" v="fuel"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="name" v="A C A - Y P F"/>
+  <tag k="note" v="A C A - Y P F"/>
+ </node>
+ <node id="272170331" lat="-38.7168643" lon="-62.2684321" user="pablopareja" uid="211657" visible="true" version="3" changeset="3444199" timestamp="2009-12-24T17:37:44Z">
+  <tag k="amenity" v="fuel"/>
+  <tag k="name" v="Petrobras"/>
+ </node>
+ <node id="272170335" lat="-38.7199314" lon="-62.2687326" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="2659387" timestamp="2009-09-28T00:05:07Z">
+  <tag k="amenity" v="fuel"/>
+  <tag k="created_by" v="JOSM"/>
+  <tag k="name" v="Y P F"/>
+  <tag k="note" v="Y P F"/>
+ </node>
+ <node id="296637196" lat="-38.7169837" lon="-62.2647786" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:02Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637207" lat="-38.7162471" lon="-62.2656582" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:03Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637218" lat="-38.7154099" lon="-62.2667741" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T00:28:24Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296637225" lat="-38.7145058" lon="-62.2678685" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T00:28:25Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296637233" lat="-38.7135933" lon="-62.2690272" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T00:28:26Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296637256" lat="-38.7183481" lon="-62.2662699" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:46:37Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637267" lat="-38.7149997" lon="-62.2706902" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T00:28:29Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296637281" lat="-38.7158703" lon="-62.2695314" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T00:28:30Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296637288" lat="-38.7166907" lon="-62.2684371" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T00:28:31Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296637299" lat="-38.7176032" lon="-62.2672677" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:03Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637323" lat="-38.7189425" lon="-62.2669672" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="792344" timestamp="2008-11-25T16:46:28Z"/>
+ <node id="296637337" lat="-38.7193023" lon="-62.2674286" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:46:38Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637345" lat="-38.7199387" lon="-62.268319" user="GusBB" uid="261991" visible="true" version="3" changeset="4374523" timestamp="2010-04-09T16:15:53Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637359" lat="-38.7208888" lon="-62.2694216" user="angasule" uid="67462" visible="true" version="3" changeset="215874" timestamp="2008-10-10T15:07:04Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637370" lat="-38.7217992" lon="-62.2705536" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="792344" timestamp="2008-11-25T16:46:28Z"/>
+ <node id="296637376" lat="-38.722659" lon="-62.2716771" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:46:34Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637386" lat="-38.7235547" lon="-62.2728252" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="792344" timestamp="2008-11-25T16:46:28Z"/>
+ <node id="296637394" lat="-38.7244001" lon="-62.273941" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="792344" timestamp="2008-11-25T16:46:28Z"/>
+ <node id="296637400" lat="-38.7252538" lon="-62.2749817" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="791238" timestamp="2008-11-25T00:49:43Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637421" lat="-38.71912" lon="-62.2652583" user="angasule" uid="67462" visible="true" version="3" changeset="27829" timestamp="2008-10-02T04:25:01Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637430" lat="-38.7199971" lon="-62.264124" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:53:40Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637438" lat="-38.7208258" lon="-62.2630727" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:53:41Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637447" lat="-38.72173" lon="-62.2619247" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T12:33:51Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637458" lat="-38.7226088" lon="-62.2608304" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T12:33:51Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637465" lat="-38.7235045" lon="-62.2596609" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T12:35:31Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637479" lat="-38.7242369" lon="-62.2554928" user="IgnacioLopez" uid="68850" visible="true" version="10" changeset="1828737" timestamp="2009-07-14T18:11:46Z"/>
+ <node id="296637486" lat="-38.7239565" lon="-62.2558414" user="IgnacioLopez" uid="68850" visible="true" version="5" changeset="744786" timestamp="2008-11-13T13:28:25Z"/>
+ <node id="296637490" lat="-38.7231195" lon="-62.2569894" user="Kcho" uid="85678" visible="true" version="3" changeset="608920" timestamp="2008-12-26T01:26:15Z"/>
+ <node id="296637499" lat="-38.7222322" lon="-62.2580945" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T13:16:07Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637510" lat="-38.7213533" lon="-62.2591781" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T12:38:56Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637521" lat="-38.720399" lon="-62.2603583" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:17:05Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637528" lat="-38.7195955" lon="-62.2614634" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:39:06Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637539" lat="-38.7187082" lon="-62.262547" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:40:11Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637549" lat="-38.7178374" lon="-62.2636306" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:01Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637575" lat="-38.7262164" lon="-62.2737371" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T00:29:01Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296637580" lat="-38.7253878" lon="-62.2726535" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T00:29:01Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296637586" lat="-38.7245006" lon="-62.2715914" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:46:35Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637597" lat="-38.7235464" lon="-62.2704862" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:46:34Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637602" lat="-38.7226673" lon="-62.2694133" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:46:35Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637610" lat="-38.7217215" lon="-62.268244" user="angasule" uid="67462" visible="true" version="2" changeset="215874" timestamp="2008-10-10T15:07:04Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637617" lat="-38.7208175" lon="-62.2672247" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:46:37Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637626" lat="-38.7201228" lon="-62.2663663" user="angasule" uid="67462" visible="true" version="2" changeset="44302" timestamp="2008-10-03T20:04:47Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637654" lat="-38.7185156" lon="-62.2684156" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T00:29:07Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296637664" lat="-38.7176869" lon="-62.2695636" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T00:29:08Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296637690" lat="-38.7191853" lon="-62.2693169" user="GusBB" uid="261991" visible="true" version="2" changeset="4374523" timestamp="2010-04-09T16:15:53Z"/>
+ <node id="296637699" lat="-38.7183314" lon="-62.2704541" user="GusBB" uid="261991" visible="true" version="2" changeset="4374523" timestamp="2010-04-09T16:15:53Z"/>
+ <node id="296637707" lat="-38.7175362" lon="-62.2715163" user="GusBB" uid="261991" visible="true" version="2" changeset="4374523" timestamp="2010-04-09T16:15:53Z"/>
+ <node id="296637713" lat="-38.7166154" lon="-62.2727501" user="GusBB" uid="261991" visible="true" version="2" changeset="4374523" timestamp="2010-04-09T16:15:53Z"/>
+ <node id="296637721" lat="-38.7157112" lon="-62.2739088" user="GusBB" uid="261991" visible="true" version="2" changeset="4374523" timestamp="2010-04-09T16:15:53Z"/>
+ <node id="296637748" lat="-38.7201338" lon="-62.2704185" user="angasule" uid="67462" visible="true" version="3" changeset="27829" timestamp="2008-10-02T04:46:36Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637759" lat="-38.7210424" lon="-62.2715472" user="angasule" uid="67462" visible="true" version="3" changeset="27829" timestamp="2008-10-02T04:46:36Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296637768" lat="-38.7219224" lon="-62.2726643" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T00:29:17Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296637775" lat="-38.7228181" lon="-62.2737157" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T00:29:18Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296637783" lat="-38.7236803" lon="-62.2748208" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T00:29:19Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666297" lat="-38.7184515" lon="-62.2726401" user="zorko" uid="22005" visible="true" version="2" changeset="648786" timestamp="2008-09-16T16:11:28Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666303" lat="-38.7192681" lon="-62.2715617" user="angasule" uid="67462" visible="true" version="3" changeset="27829" timestamp="2008-10-02T04:46:36Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666317" lat="-38.7201909" lon="-62.2726656" user="zorko" uid="22005" visible="true" version="2" changeset="648786" timestamp="2008-09-16T16:10:36Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666325" lat="-38.7193682" lon="-62.2737459" user="zorko" uid="22005" visible="true" version="2" changeset="648786" timestamp="2008-09-16T16:10:35Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666343" lat="-38.7203069" lon="-62.2748529" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:06:06Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666347" lat="-38.721077" lon="-62.2737801" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:06:07Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666359" lat="-38.7243834" lon="-62.2693812" user="IgnacioLopez" uid="68850" visible="true" version="4" changeset="744786" timestamp="2008-11-13T13:12:15Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666372" lat="-38.7252036" lon="-62.2682654" user="IgnacioLopez" uid="68850" visible="true" version="4" changeset="744786" timestamp="2008-11-13T13:12:10Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666396" lat="-38.7261495" lon="-62.2694027" user="IgnacioLopez" uid="68850" visible="true" version="6" changeset="747062" timestamp="2008-11-14T12:11:30Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666402" lat="-38.7252874" lon="-62.2705078" user="Kcho" uid="85678" visible="true" version="6" changeset="621424" timestamp="2008-12-26T21:15:12Z"/>
+ <node id="296666411" lat="-38.7261495" lon="-62.2716557" user="Kcho" uid="85678" visible="true" version="5" changeset="621424" timestamp="2008-12-26T21:15:12Z"/>
+ <node id="296666413" lat="-38.7270032" lon="-62.270497" user="IgnacioLopez" uid="68850" visible="true" version="5" changeset="744786" timestamp="2008-11-13T13:34:15Z"/>
+ <node id="296666425" lat="-38.7225502" lon="-62.2671389" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T13:07:43Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666432" lat="-38.7233874" lon="-62.2660231" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:08:12Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666436" lat="-38.7242076" lon="-62.2648966" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:11:20Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666449" lat="-38.7241239" lon="-62.2626864" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:53:40Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666475" lat="-38.7233454" lon="-62.2637701" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T13:11:20Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666497" lat="-38.7225" lon="-62.2649072" user="angasule" uid="67462" visible="true" version="2" changeset="44302" timestamp="2008-10-03T20:04:48Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666518" lat="-38.7216463" lon="-62.2660768" user="angasule" uid="67462" visible="true" version="2" changeset="44302" timestamp="2008-10-03T20:04:47Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666546" lat="-38.7169501" lon="-62.2625899" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:02Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666558" lat="-38.7160294" lon="-62.2615063" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:02Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666580" lat="-38.7151168" lon="-62.2604012" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:05Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666597" lat="-38.7153262" lon="-62.2645533" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:06:20Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666602" lat="-38.7144556" lon="-62.2634589" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:06:20Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666606" lat="-38.7135598" lon="-62.2623753" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:06:21Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666611" lat="-38.712865" lon="-62.2615706" user="angasule" uid="67462" visible="true" version="3" changeset="27829" timestamp="2008-10-02T04:25:06Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666616" lat="-38.7120195" lon="-62.2605407" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:06:21Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666620" lat="-38.7113246" lon="-62.2597038" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:06:22Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666625" lat="-38.7105209" lon="-62.2587597" user="angasule" uid="67462" visible="true" version="2" changeset="637326" timestamp="2008-09-15T05:29:59Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666634" lat="-38.7098679" lon="-62.2579336" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:06:23Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666640" lat="-38.7091897" lon="-62.2571289" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:06:23Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666644" lat="-38.7090975" lon="-62.2569787" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="246627" timestamp="2008-12-07T16:11:05Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666648" lat="-38.708679" lon="-62.2564101" user="LU6EEG" uid="88012" visible="true" version="3" changeset="679320" timestamp="2008-12-30T00:36:33Z"/>
+ <node id="296666683" lat="-38.716021" lon="-62.2637057" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:46:38Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666688" lat="-38.7151337" lon="-62.2626113" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:40:28Z"/>
+ <node id="296666691" lat="-38.7142463" lon="-62.2614634" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:40:28Z"/>
+ <node id="296666695" lat="-38.713769" lon="-62.2609376" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:06Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666708" lat="-38.7118519" lon="-62.2623538" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:06Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666710" lat="-38.711266" lon="-62.2627615" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:06:30Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666714" lat="-38.7106298" lon="-62.2633086" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:08Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666718" lat="-38.7097757" lon="-62.2639203" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:08Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666720" lat="-38.7093237" lon="-62.2642958" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:06:31Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666728" lat="-38.708587" lon="-62.2648644" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:08Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666731" lat="-38.7079507" lon="-62.2653687" user="angasule" uid="67462" visible="true" version="2" changeset="44302" timestamp="2008-10-03T20:53:36Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666734" lat="-38.7068456" lon="-62.2662055" user="angasule" uid="67462" visible="true" version="2" changeset="44302" timestamp="2008-10-03T20:53:36Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666738" lat="-38.7059077" lon="-62.2670637" user="angasule" uid="67462" visible="true" version="2" changeset="44302" timestamp="2008-10-03T20:53:35Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666744" lat="-38.7051627" lon="-62.2677719" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:06:33Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666747" lat="-38.7047943" lon="-62.2681474" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:06:33Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666756" lat="-38.7045348" lon="-62.2683942" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:06:34Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666768" lat="-38.7041748" lon="-62.2687697" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:06:34Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296666771" lat="-38.7035217" lon="-62.269349" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:10Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666776" lat="-38.7027933" lon="-62.2700463" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:10Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296666848" lat="-38.7026592" lon="-62.2701644" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:10Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296679926" lat="-38.6986318" lon="-62.283951" user="angasule" uid="67462" visible="true" version="2" changeset="636928" timestamp="2008-09-14T22:07:02Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296680003" lat="-38.6995697" lon="-62.2786939" user="Kcho" uid="85678" visible="true" version="3" changeset="608920" timestamp="2008-12-26T01:35:12Z"/>
+ <node id="296680014" lat="-38.7005828" lon="-62.2812795" user="Kcho" uid="85678" visible="true" version="3" changeset="608920" timestamp="2008-12-26T01:35:12Z"/>
+ <node id="296680020" lat="-38.7011606" lon="-62.282803" user="Kcho" uid="85678" visible="true" version="3" changeset="608920" timestamp="2008-12-26T01:35:12Z"/>
+ <node id="296680024" lat="-38.7016211" lon="-62.284305" user="Kcho" uid="85678" visible="true" version="3" changeset="608920" timestamp="2008-12-26T01:35:12Z"/>
+ <node id="296680043" lat="-38.7024248" lon="-62.287116" user="Kcho" uid="85678" visible="true" version="3" changeset="608920" timestamp="2008-12-26T01:35:12Z"/>
+ <node id="296680054" lat="-38.7037561" lon="-62.2896266" user="GusBB" uid="261991" visible="true" version="5" changeset="4374523" timestamp="2010-04-09T16:15:56Z"/>
+ <node id="296680113" lat="-38.7031365" lon="-62.2861933" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:26:06Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296680118" lat="-38.7037477" lon="-62.2853779" user="angasule" uid="67462" visible="true" version="2" changeset="630641" timestamp="2008-09-14T18:44:12Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296680124" lat="-38.7044008" lon="-62.2844767" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:26:06Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296680137" lat="-38.7052632" lon="-62.2833931" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:26:07Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296680155" lat="-38.7061088" lon="-62.2822988" user="GusBB" uid="261991" visible="true" version="2" changeset="4374523" timestamp="2010-04-09T16:14:56Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296680160" lat="-38.707013" lon="-62.2811186" user="GusBB" uid="261991" visible="true" version="3" changeset="4374523" timestamp="2010-04-09T16:14:56Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296680165" lat="-38.7079674" lon="-62.2798419" user="GusBB" uid="261991" visible="true" version="3" changeset="4374523" timestamp="2010-04-09T16:14:56Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296680173" lat="-38.7087878" lon="-62.2787582" user="GusBB" uid="261991" visible="true" version="3" changeset="4374523" timestamp="2010-04-09T16:14:56Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296680181" lat="-38.7096585" lon="-62.2776317" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:26:09Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296680191" lat="-38.7102446" lon="-62.2768592" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:26:09Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296680204" lat="-38.7107051" lon="-62.2762906" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:26:10Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296680212" lat="-38.711132" lon="-62.2757112" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:26:11Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296680220" lat="-38.7114836" lon="-62.2752392" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:26:11Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296680228" lat="-38.7115841" lon="-62.2751641" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:26:11Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296680239" lat="-38.7124045" lon="-62.2740805" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:26:12Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296680248" lat="-38.7132501" lon="-62.2729325" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:26:12Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296680258" lat="-38.7140956" lon="-62.2718489" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:26:13Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296686348" lat="-38.7013699" lon="-62.2846162" user="Kcho" uid="85678" visible="true" version="2" changeset="450420" timestamp="2008-12-17T02:21:17Z"/>
+ <node id="296686360" lat="-38.7022909" lon="-62.2834467" user="Nickar" uid="67774" visible="true" version="3" changeset="637081" timestamp="2008-09-14T19:07:33Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296686368" lat="-38.702383" lon="-62.2833395" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:34:42Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296686375" lat="-38.7029523" lon="-62.2826206" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:34:42Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296686378" lat="-38.7038063" lon="-62.2815477" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:34:43Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296686384" lat="-38.7055236" lon="-62.2793496" user="GusBB" uid="261991" visible="true" version="2" changeset="4374246" timestamp="2010-04-09T15:57:52Z"/>
+ <node id="296686394" lat="-38.708227" lon="-62.2758507" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:34:44Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296686397" lat="-38.7088046" lon="-62.2751533" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:34:44Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296686403" lat="-38.7092651" lon="-62.274574" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:34:45Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296686408" lat="-38.7101107" lon="-62.2735011" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:34:45Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296686414" lat="-38.7110232" lon="-62.2722887" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:34:45Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296686420" lat="-38.7118688" lon="-62.2712373" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:34:46Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296686425" lat="-38.7127394" lon="-62.270143" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T01:34:46Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296686434" lat="-38.7069041" lon="-62.2855282" user="GusBB" uid="261991" visible="true" version="2" changeset="4374523" timestamp="2010-04-09T16:15:55Z"/>
+ <node id="296686446" lat="-38.7077498" lon="-62.2843908" user="GusBB" uid="261991" visible="true" version="3" changeset="4374523" timestamp="2010-04-09T16:15:55Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296686453" lat="-38.7086623" lon="-62.2832" user="GusBB" uid="261991" visible="true" version="3" changeset="4374523" timestamp="2010-04-09T16:15:55Z"/>
+ <node id="296686455" lat="-38.709627" lon="-62.2819458" user="GusBB" uid="261991" visible="true" version="4" changeset="4374523" timestamp="2010-04-09T16:15:54Z"/>
+ <node id="296686459" lat="-38.7098093" lon="-62.281698" user="GusBB" uid="261991" visible="true" version="4" changeset="4374523" timestamp="2010-04-09T16:15:54Z"/>
+ <node id="296686467" lat="-38.7104372" lon="-62.2808397" user="GusBB" uid="261991" visible="true" version="4" changeset="4374523" timestamp="2010-04-09T16:15:54Z"/>
+ <node id="296686474" lat="-38.7112995" lon="-62.2797453" user="GusBB" uid="261991" visible="true" version="2" changeset="4374523" timestamp="2010-04-09T16:15:54Z"/>
+ <node id="296686478" lat="-38.7123436" lon="-62.2783539" user="GusBB" uid="261991" visible="true" version="3" changeset="4374523" timestamp="2010-04-09T16:15:54Z"/>
+ <node id="296686484" lat="-38.713225" lon="-62.2772562" user="GusBB" uid="261991" visible="true" version="2" changeset="4374523" timestamp="2010-04-09T16:15:54Z"/>
+ <node id="296686489" lat="-38.714037" lon="-62.2761404" user="GusBB" uid="261991" visible="true" version="2" changeset="4374523" timestamp="2010-04-09T16:15:53Z"/>
+ <node id="296686494" lat="-38.7148909" lon="-62.2750246" user="GusBB" uid="261991" visible="true" version="2" changeset="4374523" timestamp="2010-04-09T16:15:53Z"/>
+ <node id="296734855" lat="-38.7144137" lon="-62.2656583" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T03:01:20Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296734856" lat="-38.7135933" lon="-62.2645747" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T03:01:20Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296734861" lat="-38.7127226" lon="-62.2634482" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T03:01:21Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296734867" lat="-38.7135096" lon="-62.2667312" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T03:01:21Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296734871" lat="-38.7126892" lon="-62.2656905" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T03:01:22Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296734874" lat="-38.711785" lon="-62.2646391" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T03:01:22Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296734897" lat="-38.7125887" lon="-62.2678148" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T03:01:23Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296734906" lat="-38.7117934" lon="-62.2667849" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T03:01:23Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296734909" lat="-38.7109311" lon="-62.2655725" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T03:01:23Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296734916" lat="-38.7108809" lon="-62.2679328" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T03:01:24Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296734920" lat="-38.7099014" lon="-62.2667205" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T03:01:24Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296734927" lat="-38.7109395" lon="-62.2698855" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T03:01:25Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296734933" lat="-38.7101944" lon="-62.2687697" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T03:01:26Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296734936" lat="-38.7092735" lon="-62.2673857" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T03:01:26Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296734946" lat="-38.7093321" lon="-62.2698748" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T03:01:27Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296734947" lat="-38.7083693" lon="-62.2683835" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T03:01:27Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296734962" lat="-38.7177539" lon="-62.2614204" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:40:11Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296734964" lat="-38.7168749" lon="-62.2603583" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:40:10Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296734968" lat="-38.7159122" lon="-62.2593069" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:40:10Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296734976" lat="-38.7186914" lon="-62.260369" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:39:06Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296734980" lat="-38.7178041" lon="-62.2592531" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:46:38Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296734981" lat="-38.7168581" lon="-62.258073" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T12:40:57Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296734987" lat="-38.7154935" lon="-62.2563457" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:04Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296734996" lat="-38.7195955" lon="-62.2593283" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:32:49Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296735001" lat="-38.7186412" lon="-62.2581696" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:32:49Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296735005" lat="-38.7177036" lon="-62.2570323" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:32:49Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296735008" lat="-38.7165066" lon="-62.255541" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="671559" timestamp="2008-09-20T17:32:11Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296735036" lat="-38.7195452" lon="-62.2570002" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:32:02Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296735040" lat="-38.7204492" lon="-62.2559058" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:18:59Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296735044" lat="-38.7209515" lon="-62.2552406" user="IgnacioLopez" uid="68850" visible="true" version="5" changeset="792344" timestamp="2008-11-25T16:49:19Z"/>
+ <node id="296735051" lat="-38.7186412" lon="-62.2557878" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:32:02Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296735056" lat="-38.7195117" lon="-62.2547256" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:18:59Z"/>
+ <node id="296854243" lat="-38.7117348" lon="-62.2689521" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T08:23:32Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296854245" lat="-38.710119" lon="-62.2710013" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T08:23:33Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296854251" lat="-38.70924" lon="-62.2721922" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T08:23:35Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296854252" lat="-38.7085283" lon="-62.2708404" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T08:23:36Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296854259" lat="-38.7076326" lon="-62.2692096" user="angasule" uid="67462" visible="true" version="2" changeset="44302" timestamp="2008-10-03T20:53:35Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296854267" lat="-38.7074149" lon="-62.2746491" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T08:23:38Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296854269" lat="-38.7064939" lon="-62.2733937" user="angasule" uid="67462" visible="true" version="3" changeset="2194914" timestamp="2009-08-18T21:17:15Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296854277" lat="-38.7063432" lon="-62.2706151" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T08:23:42Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296854318" lat="-38.7041077" lon="-62.2731256" user="angasule" uid="67462" visible="true" version="2" changeset="636928" timestamp="2008-09-14T21:13:15Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296854333" lat="-38.7073814" lon="-62.2769451" user="angasule" uid="67462" visible="true" version="2" changeset="636928" timestamp="2008-09-14T21:13:21Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296854334" lat="-38.7064856" lon="-62.2758078" user="angasule" uid="67462" visible="true" version="2" changeset="636928" timestamp="2008-09-14T21:13:19Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296854336" lat="-38.7055562" lon="-62.2746491" user="angasule" uid="67462" visible="true" version="2" changeset="636928" timestamp="2008-09-14T21:13:19Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296857957" lat="-38.7060669" lon="-62.286601" user="GusBB" uid="261991" visible="true" version="2" changeset="4374523" timestamp="2010-04-09T16:15:55Z"/>
+ <node id="296857958" lat="-38.7055311" lon="-62.2872984" user="GusBB" uid="261991" visible="true" version="2" changeset="4374523" timestamp="2010-04-09T16:15:56Z"/>
+ <node id="296857959" lat="-38.7048111" lon="-62.2882426" user="GusBB" uid="261991" visible="true" version="2" changeset="4374523" timestamp="2010-04-09T16:15:56Z"/>
+ <node id="296857960" lat="-38.7040575" lon="-62.2892511" user="GusBB" uid="261991" visible="true" version="2" changeset="4374523" timestamp="2010-04-09T16:15:56Z"/>
+ <node id="296858007" lat="-38.7269865" lon="-62.2770953" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:46:32Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296858008" lat="-38.7261244" lon="-62.2760438" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="791238" timestamp="2008-11-25T00:49:43Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296858010" lat="-38.7253208" lon="-62.2793591" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T08:51:49Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296858013" lat="-38.7245759" lon="-62.2802817" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T08:51:49Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296858050" lat="-38.7244252" lon="-62.2782754" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T08:52:03Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296858051" lat="-38.7237389" lon="-62.2791981" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T08:52:03Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296858071" lat="-38.7235547" lon="-62.2771704" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T08:52:11Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296858072" lat="-38.7228851" lon="-62.2780394" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T08:52:11Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296858096" lat="-38.7227093" lon="-62.2761082" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T08:52:20Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296858097" lat="-38.7220062" lon="-62.276988" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T08:52:20Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296858115" lat="-38.7218974" lon="-62.2749817" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T08:52:26Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296858116" lat="-38.7211524" lon="-62.2759366" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T08:52:26Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296858140" lat="-38.7218556" lon="-62.2746813" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T08:52:36Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296858141" lat="-38.7270618" lon="-62.2815048" user="Kcho" uid="85678" visible="true" version="2" changeset="608920" timestamp="2008-12-26T01:21:16Z"/>
+ <node id="296858142" lat="-38.7278904" lon="-62.2825884" user="Kcho" uid="85678" visible="true" version="2" changeset="608920" timestamp="2008-12-26T01:21:31Z"/>
+ <node id="296859151" lat="-38.7014034" lon="-62.2763442" user="angasule" uid="67462" visible="true" version="2" changeset="2194914" timestamp="2009-08-18T21:17:16Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296859153" lat="-38.7029187" lon="-62.2782646" user="angasule" uid="67462" visible="true" version="2" changeset="202311" timestamp="2008-10-09T22:04:31Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296859154" lat="-38.7037561" lon="-62.279284" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T09:02:50Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296859155" lat="-38.7046654" lon="-62.2804466" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T09:02:50Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296859819" lat="-38.7295728" lon="-62.2737264" user="IgnacioLopez" uid="68850" visible="true" version="5" changeset="744786" timestamp="2008-11-13T13:34:15Z"/>
+ <node id="296859820" lat="-38.7287358" lon="-62.2748208" user="Kcho" uid="85678" visible="true" version="6" changeset="621424" timestamp="2008-12-26T21:15:12Z"/>
+ <node id="296859821" lat="-38.7279239" lon="-62.2759044" user="angasule" uid="67462" visible="true" version="1" changeset="629253" timestamp="2008-09-14T09:18:11Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="296859828" lat="-38.7258482" lon="-62.2626113" user="IgnacioLopez" uid="68850" visible="true" version="6" changeset="744786" timestamp="2008-11-13T13:11:57Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296859830" lat="-38.724986" lon="-62.2615492" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:35:31Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296859831" lat="-38.7249526" lon="-62.2637915" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:11:48Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296859835" lat="-38.724283" lon="-62.2671711" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:11:30Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296859836" lat="-38.7234878" lon="-62.2682762" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:11:26Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296859840" lat="-38.7269948" lon="-62.2727072" user="Kcho" uid="85678" visible="true" version="5" changeset="621424" timestamp="2008-12-26T21:15:12Z"/>
+ <node id="296859841" lat="-38.7278821" lon="-62.2716021" user="IgnacioLopez" uid="68850" visible="true" version="5" changeset="744786" timestamp="2008-11-13T13:34:15Z"/>
+ <node id="296859844" lat="-38.727045" lon="-62.2748208" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="791238" timestamp="2008-11-25T00:49:43Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="296859845" lat="-38.7278653" lon="-62.2738122" user="Kcho" uid="85678" visible="true" version="5" changeset="621424" timestamp="2008-12-26T21:15:12Z"/>
+ <node id="296859846" lat="-38.7287525" lon="-62.2726643" user="IgnacioLopez" uid="68850" visible="true" version="5" changeset="744786" timestamp="2008-11-13T13:34:15Z"/>
+ <node id="296973407" lat="-38.7003567" lon="-62.2816658" user="Kcho" uid="85678" visible="true" version="2" changeset="450420" timestamp="2008-12-17T02:21:16Z"/>
+ <node id="297009766" lat="-38.7038821" lon="-62.2851959" user="angasule" uid="67462" visible="true" version="1" changeset="630641" timestamp="2008-09-14T18:44:08Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297067517" lat="-38.6993425" lon="-62.2790247" user="Kcho" uid="85678" visible="true" version="2" changeset="450420" timestamp="2008-12-17T02:21:16Z"/>
+ <node id="297067518" lat="-38.7003064" lon="-62.2777712" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:37:38Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297067519" lat="-38.7004823" lon="-62.2775352" user="Kcho" uid="85678" visible="true" version="2" changeset="608920" timestamp="2008-12-26T01:34:32Z"/>
+ <node id="297067520" lat="-38.7021184" lon="-62.2753055" user="GusBB" uid="261991" visible="true" version="2" changeset="4374246" timestamp="2010-04-09T15:57:54Z"/>
+ <node id="297067521" lat="-38.7025504" lon="-62.27481" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:37:40Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297067522" lat="-38.7030947" lon="-62.2741556" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:37:40Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297067523" lat="-38.7037393" lon="-62.2735011" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:37:40Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297067524" lat="-38.7053134" lon="-62.2717951" user="angasule" uid="67462" visible="true" version="2" changeset="2194914" timestamp="2009-08-18T21:17:14Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297067525" lat="-38.7064688" lon="-62.2705185" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:37:41Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297070884" lat="-38.7075237" lon="-62.2721385" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:12Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297070887" lat="-38.708386" lon="-62.2733616" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:12Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297070893" lat="-38.700767" lon="-62.2810971" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:13Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297070896" lat="-38.7012693" lon="-62.2804641" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:13Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297070899" lat="-38.7018136" lon="-62.2797238" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:14Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297070902" lat="-38.7023662" lon="-62.2789943" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:14Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297070904" lat="-38.703743" lon="-62.2772349" user="GusBB" uid="261991" visible="true" version="2" changeset="4374246" timestamp="2010-04-09T15:57:54Z"/>
+ <node id="297070907" lat="-38.7043171" lon="-62.2765266" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:15Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297070910" lat="-38.7047357" lon="-62.2759902" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:15Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297070913" lat="-38.7047608" lon="-62.2758078" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:16Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297070916" lat="-38.7047943" lon="-62.2755718" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:16Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297070919" lat="-38.707013" lon="-62.2727715" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:17Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297070937" lat="-38.7056483" lon="-62.2769129" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:19Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297070942" lat="-38.7045847" lon="-62.2782346" user="GusBB" uid="261991" visible="true" version="2" changeset="4374246" timestamp="2010-04-09T15:57:54Z"/>
+ <node id="297070949" lat="-38.7031449" lon="-62.2800457" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:20Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297070956" lat="-38.7026342" lon="-62.2807538" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:20Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297070961" lat="-38.7020816" lon="-62.2815048" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:21Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297070968" lat="-38.7016127" lon="-62.2821807" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:21Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297070975" lat="-38.7079025" lon="-62.2740025" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:21Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297070997" lat="-38.706554" lon="-62.2780148" user="GusBB" uid="261991" visible="true" version="2" changeset="4374492" timestamp="2010-04-09T16:08:06Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297071037" lat="-38.7051326" lon="-62.2775525" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:28Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297071087" lat="-38.7040961" lon="-62.2811762" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:34Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297071095" lat="-38.7035253" lon="-62.2819006" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:54:35Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297074521" lat="-38.6993435" lon="-62.2830283" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T22:07:01Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297133212" lat="-38.7076911" lon="-62.2570109" user="2806sergio" uid="94409" visible="true" version="4" changeset="857842" timestamp="2009-01-31T04:20:07Z"/>
+ <node id="297133213" lat="-38.7081014" lon="-62.2575795" user="2806sergio" uid="94409" visible="true" version="3" changeset="857842" timestamp="2009-01-31T04:20:07Z"/>
+ <node id="297133214" lat="-38.7085117" lon="-62.2580945" user="angasule" uid="67462" visible="true" version="1" changeset="637326" timestamp="2008-09-15T05:29:30Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297133215" lat="-38.7091228" lon="-62.2588241" user="angasule" uid="67462" visible="true" version="1" changeset="637326" timestamp="2008-09-15T05:29:30Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297133216" lat="-38.7098176" lon="-62.259736" user="angasule" uid="67462" visible="true" version="1" changeset="637326" timestamp="2008-09-15T05:29:30Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297133217" lat="-38.7103953" lon="-62.2604763" user="angasule" uid="67462" visible="true" version="1" changeset="637326" timestamp="2008-09-15T05:29:31Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297133218" lat="-38.7112325" lon="-62.261517" user="angasule" uid="67462" visible="true" version="1" changeset="637326" timestamp="2008-09-15T05:29:31Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297133222" lat="-38.7126808" lon="-62.2596287" user="Kcho" uid="85678" visible="true" version="3" changeset="726296" timestamp="2009-01-03T00:07:26Z"/>
+ <node id="297133223" lat="-38.7121701" lon="-62.2590494" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:40:28Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297133224" lat="-38.7111655" lon="-62.2578799" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:40:28Z"/>
+ <node id="297133225" lat="-38.7099935" lon="-62.2562277" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:40:28Z"/>
+ <node id="297133226" lat="-38.7098009" lon="-62.2559273" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:40:28Z"/>
+ <node id="297133227" lat="-38.7095833" lon="-62.2558522" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:40:28Z"/>
+ <node id="297133228" lat="-38.713744" lon="-62.2588133" user="Kcho" uid="85678" visible="true" version="4" changeset="726296" timestamp="2009-01-03T00:07:25Z"/>
+ <node id="297133229" lat="-38.709106" lon="-62.261517" user="angasule" uid="67462" visible="true" version="1" changeset="637326" timestamp="2008-09-15T05:29:37Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297133230" lat="-38.7084279" lon="-62.2620534" user="angasule" uid="67462" visible="true" version="1" changeset="637326" timestamp="2008-09-15T05:29:38Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297133251" lat="-38.7083358" lon="-62.2606265" user="2806sergio" uid="94409" visible="true" version="3" changeset="857842" timestamp="2009-01-31T04:20:41Z"/>
+ <node id="297133253" lat="-38.7081097" lon="-62.2602295" user="2806sergio" uid="94409" visible="true" version="2" changeset="857842" timestamp="2009-01-31T04:20:41Z"/>
+ <node id="297133254" lat="-38.7118792" lon="-62.2547471" user="IgnacioLopez" uid="68850" visible="true" version="4" changeset="1828833" timestamp="2009-07-14T18:19:49Z"/>
+ <node id="297133256" lat="-38.7110316" lon="-62.2554874" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:05Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297133261" lat="-38.7069544" lon="-62.2586202" user="2806sergio" uid="94409" visible="true" version="2" changeset="857842" timestamp="2009-01-31T04:20:18Z"/>
+ <node id="297133275" lat="-38.7087795" lon="-62.2610449" user="angasule" uid="67462" visible="true" version="1" changeset="637326" timestamp="2008-09-15T05:29:59Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297133278" lat="-38.7071553" lon="-62.2585773" user="angasule" uid="67462" visible="true" version="1" changeset="637326" timestamp="2008-09-15T05:30:01Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297133279" lat="-38.7075237" lon="-62.2592318" user="angasule" uid="67462" visible="true" version="1" changeset="637326" timestamp="2008-09-15T05:30:01Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297133280" lat="-38.7079256" lon="-62.2599506" user="angasule" uid="67462" visible="true" version="1" changeset="637326" timestamp="2008-09-15T05:30:02Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297133285" lat="-38.7120445" lon="-62.2567641" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="747062" timestamp="2008-11-14T12:22:56Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297133286" lat="-38.7128382" lon="-62.2557172" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="246627" timestamp="2008-12-07T20:10:31Z"/>
+ <node id="297133291" lat="-38.713451" lon="-62.256453" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:40:10Z"/>
+ <node id="297133292" lat="-38.7142631" lon="-62.2573864" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:04Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297133293" lat="-38.7153178" lon="-62.2586095" user="Kcho" uid="85678" visible="true" version="3" changeset="608920" timestamp="2008-12-26T01:30:32Z"/>
+ <node id="297133294" lat="-38.7145058" lon="-62.2596824" user="Kcho" uid="85678" visible="true" version="4" changeset="608920" timestamp="2008-12-26T01:30:32Z"/>
+ <node id="297133295" lat="-38.7148658" lon="-62.259221" user="Kcho" uid="85678" visible="true" version="2" changeset="608920" timestamp="2008-12-26T01:30:32Z"/>
+ <node id="297133296" lat="-38.7150164" lon="-62.2590279" user="Kcho" uid="85678" visible="true" version="2" changeset="608920" timestamp="2008-12-26T01:30:32Z"/>
+ <node id="297133297" lat="-38.7157615" lon="-62.2579872" user="Kcho" uid="85678" visible="true" version="2" changeset="608920" timestamp="2008-12-26T01:30:32Z"/>
+ <node id="297133298" lat="-38.7162897" lon="-62.2573535" user="Kcho" uid="85678" visible="true" version="5" changeset="608920" timestamp="2008-12-26T01:30:32Z"/>
+ <node id="297133312" lat="-38.7137189" lon="-62.2577726" user="ale moreno" uid="86751" visible="true" version="2" changeset="560010" timestamp="2008-12-22T18:03:10Z"/>
+ <node id="297133313" lat="-38.713225" lon="-62.2582018" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:40:17Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297133314" lat="-38.7148407" lon="-62.2600685" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:05Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297133315" lat="-38.7106716" lon="-62.255069" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="747062" timestamp="2008-11-14T12:22:56Z"/>
+ <node id="297133316" lat="-38.7102195" lon="-62.2545647" user="LU6EEG" uid="88012" visible="true" version="4" changeset="679320" timestamp="2008-12-30T01:01:40Z"/>
+ <node id="297133317" lat="-38.7100436" lon="-62.2543865" user="IgnacioLopez" uid="68850" visible="true" version="4" changeset="791238" timestamp="2008-11-24T22:44:07Z"/>
+ <node id="297133318" lat="-38.7094326" lon="-62.2536421" user="IgnacioLopez" uid="68850" visible="true" version="5" changeset="802206" timestamp="2009-01-17T20:19:47Z"/>
+ <node id="297133319" lat="-38.7085367" lon="-62.2525477" user="LU6EEG" uid="88012" visible="true" version="4" changeset="679320" timestamp="2008-12-30T00:10:23Z"/>
+ <node id="297133320" lat="-38.7076576" lon="-62.2514963" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="747062" timestamp="2008-11-14T12:22:56Z"/>
+ <node id="297133321" lat="-38.7067953" lon="-62.2504448" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="747062" timestamp="2008-11-14T12:22:56Z"/>
+ <node id="297133322" lat="-38.7060167" lon="-62.2495007" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="747062" timestamp="2008-11-14T12:22:56Z"/>
+ <node id="297133323" lat="-38.7050524" lon="-62.2483434" user="IgnacioLopez" uid="68850" visible="true" version="5" changeset="246627" timestamp="2008-12-07T16:45:01Z"/>
+ <node id="297139320" lat="-38.7213951" lon="-62.2571182" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:16:41Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297139321" lat="-38.7229186" lon="-62.2552138" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="1828737" timestamp="2009-07-14T18:11:48Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297139322" lat="-38.7223075" lon="-62.2559809" user="Kcho" uid="85678" visible="true" version="3" changeset="608920" timestamp="2008-12-26T01:26:15Z"/>
+ <node id="297139323" lat="-38.7205414" lon="-62.2581911" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:32:02Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297139326" lat="-38.7252036" lon="-62.2573864" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T12:31:13Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297139334" lat="-38.7257393" lon="-62.256689" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:31:01Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297139336" lat="-38.7243472" lon="-62.2585254" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T12:33:51Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297139340" lat="-38.7258565" lon="-62.2604227" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T13:20:00Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297139341" lat="-38.7267187" lon="-62.2614955" user="IgnacioLopez" uid="68850" visible="true" version="5" changeset="744786" timestamp="2008-11-13T13:28:41Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297139354" lat="-38.7271874" lon="-62.258749" user="Kcho" uid="85678" visible="true" version="9" changeset="608920" timestamp="2008-12-26T01:24:27Z"/>
+ <node id="297139355" lat="-38.7256235" lon="-62.2568397" user="IgnacioLopez" uid="68850" visible="true" version="8" changeset="1615043" timestamp="2009-06-24T18:27:01Z"/>
+ <node id="297139356" lat="-38.725824" lon="-62.2565803" user="IgnacioLopez" uid="68850" visible="true" version="10" changeset="1615043" timestamp="2009-06-24T18:27:02Z"/>
+ <node id="297139359" lat="-38.7445864" lon="-62.2367119" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:21:25Z"/>
+ <node id="297139360" lat="-38.7438835" lon="-62.2376346" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:21:25Z"/>
+ <node id="297139361" lat="-38.7430298" lon="-62.238729" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:21:25Z"/>
+ <node id="297139362" lat="-38.7422015" lon="-62.2397804" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:21:25Z"/>
+ <node id="297139363" lat="-38.7414232" lon="-62.2408425" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:21:25Z"/>
+ <node id="297139364" lat="-38.7406031" lon="-62.241851" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:21:25Z"/>
+ <node id="297139365" lat="-38.7397328" lon="-62.2429883" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:21:25Z"/>
+ <node id="297139366" lat="-38.7390884" lon="-62.2438359" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:21:25Z"/>
+ <node id="297139367" lat="-38.738419" lon="-62.2447371" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:21:25Z"/>
+ <node id="297139368" lat="-38.7377912" lon="-62.2455525" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:21:25Z"/>
+ <node id="297139369" lat="-38.7371218" lon="-62.2463893" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:21:25Z"/>
+ <node id="297139370" lat="-38.736469" lon="-62.2472798" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:21:25Z"/>
+ <node id="297139371" lat="-38.7354312" lon="-62.248696" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:21:25Z"/>
+ <node id="297139372" lat="-38.735289" lon="-62.2487819" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:21:25Z"/>
+ <node id="297139373" lat="-38.7347784" lon="-62.2488033" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:21:25Z"/>
+ <node id="297139374" lat="-38.7345944" lon="-62.2489856" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:25:28Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297139375" lat="-38.7336738" lon="-62.2502624" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:21:25Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297139376" lat="-38.7327699" lon="-62.2514426" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:21:08Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297139377" lat="-38.7310207" lon="-62.2536742" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T13:20:48Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297139378" lat="-38.7302423" lon="-62.2547364" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:21:25Z"/>
+ <node id="297139379" lat="-38.7293217" lon="-62.2558736" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T13:20:29Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297139380" lat="-38.728493" lon="-62.2570109" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="744786" timestamp="2008-11-13T13:20:19Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297139381" lat="-38.7281248" lon="-62.2575044" user="Kcho" uid="85678" visible="true" version="4" changeset="608920" timestamp="2008-12-26T01:25:44Z"/>
+ <node id="297139382" lat="-38.7276059" lon="-62.2581911" user="angasule" uid="67462" visible="true" version="2" changeset="27829" timestamp="2008-10-02T04:53:39Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297139383" lat="-38.7267354" lon="-62.2593069" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:20:09Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297574484" lat="-38.7274216" lon="-62.2545646" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="1828753" timestamp="2009-07-14T18:12:45Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297574485" lat="-38.7269698" lon="-62.2551119" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:20:19Z"/>
+ <node id="297574511" lat="-38.7275891" lon="-62.260369" user="IgnacioLopez" uid="68850" visible="true" version="6" changeset="744786" timestamp="2008-11-13T13:28:25Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="297574516" lat="-38.7293217" lon="-62.258073" user="Kcho" uid="85678" visible="true" version="5" changeset="621424" timestamp="2008-12-26T21:17:00Z"/>
+ <node id="297574529" lat="-38.7302172" lon="-62.2569572" user="Kcho" uid="85678" visible="true" version="9" changeset="621424" timestamp="2008-12-26T21:17:00Z"/>
+ <node id="297817724" lat="-38.7294472" lon="-62.2844982" user="angasule" uid="67462" visible="true" version="1" changeset="658384" timestamp="2008-09-17T23:42:19Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297927926" lat="-38.7368791" lon="-62.2939074" user="angasule" uid="67462" visible="true" version="1" changeset="658758" timestamp="2008-09-18T16:34:11Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297927929" lat="-38.7365611" lon="-62.2934138" user="angasule" uid="67462" visible="true" version="1" changeset="658758" timestamp="2008-09-18T16:34:11Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297927933" lat="-38.7358832" lon="-62.2925662" user="angasule" uid="67462" visible="true" version="1" changeset="658758" timestamp="2008-09-18T16:34:12Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297927935" lat="-38.7352053" lon="-62.2916972" user="angasule" uid="67462" visible="true" version="1" changeset="658758" timestamp="2008-09-18T16:34:12Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297927938" lat="-38.7345358" lon="-62.290914" user="angasule" uid="67462" visible="true" version="1" changeset="658758" timestamp="2008-09-18T16:34:13Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297927942" lat="-38.7337574" lon="-62.2899055" user="angasule" uid="67462" visible="true" version="1" changeset="658758" timestamp="2008-09-18T16:34:13Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297927948" lat="-38.7328871" lon="-62.2888433" user="angasule" uid="67462" visible="true" version="1" changeset="658758" timestamp="2008-09-18T16:34:13Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297927952" lat="-38.7320334" lon="-62.287749" user="angasule" uid="67462" visible="true" version="1" changeset="658758" timestamp="2008-09-18T16:34:14Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297927958" lat="-38.7303093" lon="-62.2856032" user="angasule" uid="67462" visible="true" version="1" changeset="658758" timestamp="2008-09-18T16:34:14Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297927959" lat="-38.7300582" lon="-62.2852814" user="angasule" uid="67462" visible="true" version="1" changeset="658758" timestamp="2008-09-18T16:34:15Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297927960" lat="-38.7287693" lon="-62.2836613" user="angasule" uid="67462" visible="true" version="1" changeset="658758" timestamp="2008-09-18T16:34:15Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="297966182" lat="-38.7311827" lon="-62.2866897" user="angasule" uid="67462" visible="true" version="1" changeset="662005" timestamp="2008-09-18T19:23:26Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="298271136" lat="-38.7090381" lon="-62.256898" user="2806sergio" uid="94409" visible="true" version="2" changeset="857842" timestamp="2009-01-31T04:19:52Z"/>
+ <node id="298300136" lat="-38.7310701" lon="-62.2557779" user="Kcho" uid="85678" visible="true" version="4" changeset="621424" timestamp="2008-12-26T21:17:00Z"/>
+ <node id="298308404" lat="-38.7284433" lon="-62.259215" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:28:02Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="301458280" lat="-38.7305119" lon="-62.2543682" user="angasule" uid="67462" visible="true" version="2" changeset="35269" timestamp="2008-10-02T21:53:30Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="301458290" lat="-38.7104262" lon="-62.2547954" user="angasule" uid="67462" visible="true" version="2" changeset="35269" timestamp="2008-10-02T21:53:33Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="301497915" lat="-38.7328712" lon="-62.2513103" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:21:25Z"/>
+ <node id="301694747" lat="-38.7105544" lon="-62.2807109" user="GusBB" uid="261991" visible="true" version="2" changeset="4374523" timestamp="2010-04-09T16:15:54Z">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="301766231" lat="-38.7155784" lon="-62.2597659" user="angasule" uid="67462" visible="true" version="1" changeset="41752" timestamp="2008-10-03T14:19:47Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="301766232" lat="-38.7151927" lon="-62.2592593" user="angasule" uid="67462" visible="true" version="1" changeset="41752" timestamp="2008-10-03T14:19:48Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="301766233" lat="-38.715425" lon="-62.2595645" user="angasule" uid="67462" visible="true" version="1" changeset="41752" timestamp="2008-10-03T14:19:48Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="301844169" lat="-38.7209497" lon="-62.2652521" user="angasule" uid="67462" visible="true" version="1" changeset="44302" timestamp="2008-10-03T20:04:45Z">
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="301892420" lat="-38.7186579" lon="-62.2621393" user="angasule" uid="67462" visible="true" version="1" changeset="53504" timestamp="2008-10-03T22:51:49Z">
+  <tag k="amenity" v="cinema"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="name" v="Cine Visión"/>
+ </node>
+ <node id="301894503" lat="-38.7189007" lon="-62.2653901" user="angasule" uid="67462" visible="true" version="1" changeset="53504" timestamp="2008-10-03T23:01:08Z">
+  <tag k="amenity" v="taxi"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="301895692" lat="-38.7184067" lon="-62.2639095" user="angasule" uid="67462" visible="true" version="1" changeset="53504" timestamp="2008-10-03T23:07:14Z">
+  <tag k="amenity" v="townhall"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="302101960" lat="-38.7185281" lon="-62.2607928" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="129819" timestamp="2008-12-05T15:57:55Z">
+  <tag k="amenity" v="hospital"/>
+  <tag k="created_by" v="Merkaartor 0.12"/>
+  <tag k="name" v="Privado del Sur"/>
+ </node>
+ <node id="302755852" lat="-38.7176085" lon="-62.2635099" user="pablopareja" uid="211657" visible="true" version="2" changeset="3444199" timestamp="2009-12-24T17:33:11Z">
+  <tag k="amenity" v="pharmacy"/>
+ </node>
+ <node id="302859437" lat="-38.7127596" lon="-62.2778356" user="GusBB" uid="261991" visible="true" version="2" changeset="4374523" timestamp="2010-04-09T16:15:54Z"/>
+ <node id="303561521" lat="-38.7218877" lon="-62.2663604" user="Kcho" uid="85678" visible="true" version="6" changeset="621424" timestamp="2008-12-26T21:15:58Z"/>
+ <node id="303561526" lat="-38.7214747" lon="-62.2669672" user="Kcho" uid="85678" visible="true" version="3" changeset="621424" timestamp="2008-12-26T21:16:25Z"/>
+ <node id="303561528" lat="-38.7212156" lon="-62.2666731" user="Kcho" uid="85678" visible="true" version="4" changeset="621424" timestamp="2008-12-26T21:16:25Z"/>
+ <node id="303561532" lat="-38.7214004" lon="-62.2664171" user="Kcho" uid="85678" visible="true" version="4" changeset="621424" timestamp="2008-12-26T21:16:12Z"/>
+ <node id="303593808" lat="-38.7186724" lon="-62.2669216" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="2659387" timestamp="2009-09-28T00:05:19Z">
+  <tag k="amenity" v="library"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="name" v="Biblioteca Bernardino Rivadavia"/>
+ </node>
+ <node id="303600720" lat="-38.7166195" lon="-62.2641348" user="angasule" uid="67462" visible="true" version="1" changeset="236629" timestamp="2008-10-10T19:00:51Z">
+  <tag k="amenity" v="parking"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+ </node>
+ <node id="311755758" lat="-38.7239861" lon="-62.2667851" user="IgnacioLopez" uid="68850" visible="true" version="4" changeset="753292" timestamp="2008-11-15T00:01:15Z"/>
+ <node id="315049324" lat="-38.7150273" lon="-62.2598179" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="799747" timestamp="2008-11-27T12:50:59Z">
+  <tag k="amenity" v="theatre"/>
+  <tag k="created_by" v="Merkaartor 0.11"/>
+  <tag k="name" v="Teatro Municipal"/>
+ </node>
+ <node id="316801502" lat="-38.7382762" lon="-62.2449224" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="129819" timestamp="2008-12-05T15:34:22Z">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="316804022" lat="-38.7189969" lon="-62.2609591" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="129819" timestamp="2008-12-05T15:57:53Z">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="316804023" lat="-38.7186872" lon="-62.2605836" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="129819" timestamp="2008-12-05T15:57:53Z">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="316804024" lat="-38.7183105" lon="-62.2609484" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="129819" timestamp="2008-12-05T15:57:53Z">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="316804025" lat="-38.718683" lon="-62.2614258" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="129819" timestamp="2008-12-05T15:57:54Z">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="316804026" lat="-38.7189885" lon="-62.2609859" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="129819" timestamp="2008-12-05T15:57:54Z">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="317285401" lat="-38.7119839" lon="-62.2547417" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="1828833" timestamp="2009-07-14T18:19:49Z"/>
+ <node id="317285411" lat="-38.7120324" lon="-62.2547782" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="246627" timestamp="2008-12-07T20:10:30Z">
+  <tag k="created_by" v="Merkaartor 0.11"/>
+ </node>
+ <node id="321862715" lat="-38.722258" lon="-62.2667956" user="Kcho" uid="85678" visible="true" version="1" changeset="621424" timestamp="2008-12-26T21:15:12Z"/>
+ <node id="321862927" lat="-38.72225" lon="-62.2675392" user="Kcho" uid="85678" visible="true" version="1" changeset="621424" timestamp="2008-12-26T21:17:00Z"/>
+ <node id="428056546" lat="-38.7219479" lon="-62.2679418" user="angasule" uid="67462" visible="true" version="1" changeset="1595286" timestamp="2009-06-22T17:39:22Z"/>
+ <node id="428880664" lat="-38.7163726" lon="-62.265594" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="1615472" timestamp="2009-06-24T19:11:16Z">
+  <tag k="amenity" v="taxi"/>
+ </node>
+ <node id="428880678" lat="-38.7156108" lon="-62.2651541" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="1615472" timestamp="2009-06-24T19:11:16Z">
+  <tag k="amenity" v="school"/>
+ </node>
+ <node id="430551772" lat="-38.7189511" lon="-62.2648909" user="angasule" uid="67462" visible="true" version="1" changeset="1672294" timestamp="2009-06-29T02:32:48Z">
+  <tag k="amenity" v="cafe"/>
+  <tag k="name" v="Boston Café"/>
+ </node>
+ <node id="430556373" lat="-38.7148703" lon="-62.2609923" user="angasule" uid="67462" visible="true" version="2" changeset="1679066" timestamp="2009-06-29T16:46:53Z">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="cuisine" v="pizza"/>
+  <tag k="name" v="El Mundo de la Pizza"/>
+ </node>
+ <node id="430775733" lat="-38.7166563" lon="-62.2624157" user="angasule" uid="67462" visible="true" version="1" changeset="1678012" timestamp="2009-06-29T15:14:06Z">
+  <tag k="amenity" v="cafe"/>
+  <tag k="name" v="Pelícano"/>
+ </node>
+ <node id="430775735" lat="-38.7165415" lon="-62.2622762" user="angasule" uid="67462" visible="true" version="1" changeset="1678012" timestamp="2009-06-29T15:14:06Z">
+  <tag k="amenity" v="cafe"/>
+  <tag k="name" v="Northwestern"/>
+ </node>
+ <node id="430775737" lat="-38.7161849" lon="-62.261889" user="angasule" uid="67462" visible="true" version="1" changeset="1678012" timestamp="2009-06-29T15:14:07Z">
+  <tag k="amenity" v="cafe"/>
+  <tag k="name" v="Massimo"/>
+ </node>
+ <node id="430781342" lat="-38.7185238" lon="-62.2621239" user="angasule" uid="67462" visible="true" version="1" changeset="1678420" timestamp="2009-06-29T15:32:59Z">
+  <tag k="amenity" v="cafe"/>
+ </node>
+ <node id="430781345" lat="-38.7184191" lon="-62.262" user="angasule" uid="67462" visible="true" version="1" changeset="1678420" timestamp="2009-06-29T15:33:00Z">
+  <tag k="amenity" v="nightclub"/>
+  <tag k="name" v="Adonis"/>
+ </node>
+ <node id="456959167" lat="-38.7131266" lon="-62.2621031" user="Julslp" uid="153531" visible="true" version="1" changeset="2046773" timestamp="2009-08-05T15:34:05Z">
+  <tag k="name" v="MMBA - MAC"/>
+  <tag k="tourism" v="museum"/>
+ </node>
+ <node id="456959446" lat="-38.7151894" lon="-62.2599745" user="Julslp" uid="153531" visible="true" version="1" changeset="2046773" timestamp="2009-08-05T15:35:01Z">
+  <tag k="name" v="Archivo y Museo Histórico Muncipal"/>
+  <tag k="tourism" v="museum"/>
+ </node>
+ <node id="511436032" lat="-38.7196903" lon="-62.2614284" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="2659387" timestamp="2009-09-28T00:00:25Z">
+  <tag k="amenity" v="pharmacy"/>
+ </node>
+ <node id="511436750" lat="-38.7205341" lon="-62.2603641" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="2659387" timestamp="2009-09-28T00:00:30Z">
+  <tag k="amenity" v="pharmacy"/>
+ </node>
+ <node id="511449116" lat="-38.7199515" lon="-62.2638832" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="2659387" timestamp="2009-09-28T00:02:05Z">
+  <tag k="amenity" v="taxi"/>
+ </node>
+ <node id="511469728" lat="-38.7194158" lon="-62.2687068" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="2659387" timestamp="2009-09-28T00:05:00Z">
+  <tag k="amenity" v="school"/>
+ </node>
+ <node id="511474043" lat="-38.7183845" lon="-62.2679945" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="2659387" timestamp="2009-09-28T00:05:38Z">
+  <tag k="amenity" v="post_box"/>
+ </node>
+ <node id="511486564" lat="-38.718813" lon="-62.2658401" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="2659387" timestamp="2009-09-28T00:07:32Z">
+  <tag k="amenity" v="cafe"/>
+ </node>
+ <node id="511487484" lat="-38.7189336" lon="-62.2657114" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="2659387" timestamp="2009-09-28T00:07:42Z">
+  <tag k="amenity" v="restaurant"/>
+ </node>
+ <node id="511492422" lat="-38.7204738" lon="-62.2677627" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="2659387" timestamp="2009-09-28T00:08:32Z">
+  <tag k="shop" v="supermarket"/>
+ </node>
+ <node id="511495165" lat="-38.7195229" lon="-62.2632738" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="2659387" timestamp="2009-09-28T00:08:59Z">
+  <tag k="shop" v="supermarket"/>
+ </node>
+ <node id="511497229" lat="-38.716429" lon="-62.2662349" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="2659387" timestamp="2009-09-28T00:09:20Z">
+  <tag k="amenity" v="place_of_worship"/>
+ </node>
+ <node id="511504290" lat="-38.7159736" lon="-62.261334" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="2659387" timestamp="2009-09-28T00:10:23Z">
+  <tag k="amenity" v="cafe"/>
+ </node>
+ <node id="511507519" lat="-38.7191077" lon="-62.2655054" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="2659387" timestamp="2009-09-28T00:10:52Z">
+  <tag k="amenity" v="cafe"/>
+ </node>
+ <node id="511508160" lat="-38.7186791" lon="-62.2660289" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="2659387" timestamp="2009-09-28T00:10:57Z">
+  <tag k="amenity" v="restaurant"/>
+ </node>
+ <node id="599022442" lat="-38.7171564" lon="-62.2642341" user="pablopareja" uid="211657" visible="true" version="1" changeset="3444199" timestamp="2009-12-24T17:22:22Z">
+  <tag k="amenity" v="parking"/>
+ </node>
+ <node id="599024486" lat="-38.7181777" lon="-62.2634079" user="pablopareja" uid="211657" visible="true" version="1" changeset="3444199" timestamp="2009-12-24T17:33:26Z">
+  <tag k="amenity" v="pharmacy"/>
+ </node>
+ <node id="599025683" lat="-38.7146116" lon="-62.2603717" user="pablopareja" uid="211657" visible="true" version="1" changeset="3444199" timestamp="2009-12-24T17:39:25Z">
+  <tag k="amenity" v="cafe"/>
+  <tag k="name" v="Revoque"/>
+ </node>
+ <node id="599025732" lat="-38.7144107" lon="-62.2602644" user="pablopareja" uid="211657" visible="true" version="1" changeset="3444199" timestamp="2009-12-24T17:39:41Z">
+  <tag k="amenity" v="cafe"/>
+  <tag k="name" v="Don Tomás"/>
+ </node>
+ <node id="599025865" lat="-38.7142432" lon="-62.2612836" user="pablopareja" uid="211657" visible="true" version="1" changeset="3444199" timestamp="2009-12-24T17:40:49Z">
+  <tag k="amenity" v="restaurant"/>
+ </node>
+ <node id="599025872" lat="-38.7147623" lon="-62.2619595" user="pablopareja" uid="211657" visible="true" version="1" changeset="3444199" timestamp="2009-12-24T17:41:52Z">
+  <tag k="name" v="Cooperativa"/>
+  <tag k="shop" v="supermarket"/>
+ </node>
+ <node id="599025921" lat="-38.7152562" lon="-62.2667553" user="pablopareja" uid="211657" visible="true" version="1" changeset="3444199" timestamp="2009-12-24T17:42:17Z">
+  <tag k="name" v="Burgos"/>
+  <tag k="shop" v="supermarket"/>
+ </node>
+ <node id="690545202" lat="-38.7061547" lon="-62.278532" user="GusBB" uid="261991" visible="true" version="1" changeset="4374246" timestamp="2010-04-09T15:57:52Z"/>
+ <node id="749861688" lat="-38.7109722" lon="-62.2554183" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="4816080" timestamp="2010-05-26T19:28:28Z"/>
+ <way id="27052067" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:17:05Z">
+  <nd ref="296637479"/>
+  <nd ref="296637486"/>
+  <nd ref="296637490"/>
+  <nd ref="296637499"/>
+  <nd ref="296637510"/>
+  <nd ref="296637521"/>
+  <nd ref="296637528"/>
+  <nd ref="296637539"/>
+  <nd ref="296637549"/>
+  <nd ref="296637196"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="San Martín"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27052069" user="angasule" uid="67462" visible="true" version="2" changeset="202311" timestamp="2008-10-09T22:16:19Z">
+  <nd ref="296637337"/>
+  <nd ref="296637654"/>
+  <nd ref="296637664"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Vicente López"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27052071" user="angasule" uid="67462" visible="true" version="1" changeset="627560" timestamp="2008-09-14T00:29:20Z">
+  <nd ref="296637299"/>
+  <nd ref="296637654"/>
+  <nd ref="296637690"/>
+  <nd ref="296637748"/>
+  <nd ref="296637759"/>
+  <nd ref="296637768"/>
+  <nd ref="296637775"/>
+  <nd ref="296637783"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Moreno"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27053106" user="IgnacioLopez" uid="68850" visible="true" version="5" changeset="2280718" timestamp="2009-08-27T18:40:54Z">
+  <nd ref="296680043"/>
+  <nd ref="296680113"/>
+  <nd ref="296680118"/>
+  <nd ref="297009766"/>
+  <nd ref="296680124"/>
+  <nd ref="296680137"/>
+  <nd ref="296680155"/>
+  <nd ref="296680160"/>
+  <nd ref="296680165"/>
+  <nd ref="296680173"/>
+  <nd ref="296680181"/>
+  <nd ref="296680191"/>
+  <nd ref="296680204"/>
+  <nd ref="296680212"/>
+  <nd ref="296680220"/>
+  <nd ref="296680228"/>
+  <nd ref="296680239"/>
+  <nd ref="296680248"/>
+  <nd ref="296680258"/>
+  <nd ref="296637267"/>
+  <nd ref="296637281"/>
+  <nd ref="296637288"/>
+  <nd ref="296637299"/>
+  <nd ref="296637256"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Estomba"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27053170" user="GusBB" uid="261991" visible="true" version="6" changeset="4374246" timestamp="2010-04-09T15:57:52Z">
+  <nd ref="296637196"/>
+  <nd ref="296637207"/>
+  <nd ref="296637218"/>
+  <nd ref="296637225"/>
+  <nd ref="296637233"/>
+  <nd ref="296686425"/>
+  <nd ref="296686420"/>
+  <nd ref="296686414"/>
+  <nd ref="296686408"/>
+  <nd ref="296686403"/>
+  <nd ref="296686397"/>
+  <nd ref="296686394"/>
+  <nd ref="296854333"/>
+  <nd ref="297070997"/>
+  <nd ref="690545202"/>
+  <nd ref="296686384"/>
+  <nd ref="296859155"/>
+  <nd ref="297071087"/>
+  <nd ref="296686378"/>
+  <nd ref="297071095"/>
+  <nd ref="296686375"/>
+  <nd ref="296686368"/>
+  <nd ref="296686360"/>
+  <nd ref="296680024"/>
+  <nd ref="296686348"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Zelarrayán"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27053171" user="IgnacioLopez" uid="68850" visible="true" version="9" changeset="2280936" timestamp="2009-08-27T18:55:57Z">
+  <nd ref="296637345"/>
+  <nd ref="296637690"/>
+  <nd ref="296637699"/>
+  <nd ref="296637707"/>
+  <nd ref="296637713"/>
+  <nd ref="296637721"/>
+  <nd ref="296686494"/>
+  <nd ref="296686489"/>
+  <nd ref="296686484"/>
+  <nd ref="302859437"/>
+  <nd ref="296686478"/>
+  <nd ref="296686474"/>
+  <nd ref="301694747"/>
+  <nd ref="296686467"/>
+  <nd ref="296686459"/>
+  <nd ref="296686455"/>
+  <nd ref="296686453"/>
+  <nd ref="296686446"/>
+  <nd ref="296686434"/>
+  <nd ref="296857957"/>
+  <nd ref="296857958"/>
+  <nd ref="296857959"/>
+  <nd ref="296857960"/>
+  <nd ref="296680054"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Vieytes"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27053782" user="angasule" uid="67462" visible="true" version="4" changeset="663577" timestamp="2008-09-19T16:53:43Z">
+  <nd ref="296680020"/>
+  <nd ref="297070968"/>
+  <nd ref="297070961"/>
+  <nd ref="297070956"/>
+  <nd ref="297070949"/>
+  <nd ref="296859154"/>
+  <nd ref="297070942"/>
+  <nd ref="297071037"/>
+  <nd ref="297070937"/>
+  <nd ref="296854334"/>
+  <nd ref="296854267"/>
+  <nd ref="297070975"/>
+  <nd ref="297070887"/>
+  <nd ref="296854251"/>
+  <nd ref="296854245"/>
+  <nd ref="296734927"/>
+  <nd ref="296854243"/>
+  <nd ref="296734897"/>
+  <nd ref="296734867"/>
+  <nd ref="296734855"/>
+  <nd ref="296666597"/>
+  <nd ref="296666683"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Mitre"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27053786" user="ale moreno" uid="86751" visible="true" version="6" changeset="560010" timestamp="2008-12-22T17:59:35Z">
+  <nd ref="296637438"/>
+  <nd ref="296637528"/>
+  <nd ref="296734976"/>
+  <nd ref="296734980"/>
+  <nd ref="296734981"/>
+  <nd ref="297133298"/>
+  <nd ref="296734987"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Las Heras"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27053790" user="angasule" uid="67462" visible="true" version="2" changeset="663577" timestamp="2008-09-19T16:53:45Z">
+  <nd ref="296735044"/>
+  <nd ref="296735040"/>
+  <nd ref="296735036"/>
+  <nd ref="296735001"/>
+  <nd ref="296734980"/>
+  <nd ref="296734964"/>
+  <nd ref="296666558"/>
+  <nd ref="296666688"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Lamadrid"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27053791" user="angasule" uid="67462" visible="true" version="5" changeset="41752" timestamp="2008-10-03T14:19:47Z">
+  <nd ref="296666691"/>
+  <nd ref="296666580"/>
+  <nd ref="301766231"/>
+  <nd ref="296734968"/>
+  <nd ref="296734981"/>
+  <nd ref="296735005"/>
+  <nd ref="296735051"/>
+  <nd ref="296735056"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Dorrego"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27055797" user="angasule" uid="67462" visible="true" version="2" changeset="55782" timestamp="2008-10-04T05:59:22Z">
+  <nd ref="296637281"/>
+  <nd ref="296637707"/>
+  <nd ref="296666297"/>
+  <nd ref="296666325"/>
+  <nd ref="296666343"/>
+  <nd ref="296858116"/>
+  <nd ref="296858097"/>
+  <nd ref="296858072"/>
+  <nd ref="296858051"/>
+  <nd ref="296858013"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Gorriti"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27056027" user="angasule" uid="67462" visible="true" version="12" changeset="1595332" timestamp="2009-06-22T17:44:22Z">
+  <nd ref="296637359"/>
+  <nd ref="296637610"/>
+  <nd ref="428056546"/>
+  <nd ref="321862927"/>
+  <nd ref="296666425"/>
+  <nd ref="296666432"/>
+  <nd ref="296666436"/>
+  <nd ref="296859831"/>
+  <nd ref="296859828"/>
+  <nd ref="297139341"/>
+  <nd ref="297574511"/>
+  <nd ref="298308404"/>
+  <nd ref="297574516"/>
+  <nd ref="297574529"/>
+  <nd ref="298300136"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Saavedra"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27056034" user="Tierno" uid="68828" visible="true" version="2" changeset="671542" timestamp="2008-09-20T14:44:49Z">
+  <nd ref="296859821"/>
+  <nd ref="296859844"/>
+  <nd ref="296637575"/>
+  <nd ref="296637580"/>
+  <nd ref="296637586"/>
+  <nd ref="296637597"/>
+  <nd ref="296637602"/>
+  <nd ref="296637610"/>
+  <nd ref="296637617"/>
+  <nd ref="296637626"/>
+  <nd ref="296637421"/>
+  <tag k="created_by" v="Potlatch 0.10b"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="O'Higgins"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27056035" user="Kcho" uid="85678" visible="true" version="9" changeset="621424" timestamp="2008-12-26T21:15:12Z">
+  <nd ref="296637430"/>
+  <nd ref="301844169"/>
+  <nd ref="296666518"/>
+  <nd ref="303561521"/>
+  <nd ref="321862715"/>
+  <nd ref="296666425"/>
+  <nd ref="296859836"/>
+  <nd ref="296666359"/>
+  <nd ref="296666402"/>
+  <nd ref="296666411"/>
+  <nd ref="296859840"/>
+  <nd ref="296859845"/>
+  <nd ref="296859820"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Donado"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27056036" user="IgnacioLopez" uid="68850" visible="true" version="7" changeset="744786" timestamp="2008-11-13T13:34:15Z">
+  <nd ref="296859819"/>
+  <nd ref="296859846"/>
+  <nd ref="296859841"/>
+  <nd ref="296666413"/>
+  <nd ref="296666396"/>
+  <nd ref="296666372"/>
+  <nd ref="296859835"/>
+  <nd ref="311755758"/>
+  <nd ref="296666432"/>
+  <nd ref="296666497"/>
+  <nd ref="296637438"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Fitz Roy"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27077992" user="angasule" uid="67462" visible="true" version="1" changeset="636928" timestamp="2008-09-14T21:37:42Z">
+  <nd ref="297067517"/>
+  <nd ref="296680003"/>
+  <nd ref="297067518"/>
+  <nd ref="297067519"/>
+  <nd ref="296859151"/>
+  <nd ref="297067520"/>
+  <nd ref="297067521"/>
+  <nd ref="297067522"/>
+  <nd ref="297067523"/>
+  <nd ref="296854318"/>
+  <nd ref="297067524"/>
+  <nd ref="296854277"/>
+  <nd ref="297067525"/>
+  <nd ref="296854259"/>
+  <nd ref="296734947"/>
+  <nd ref="296734936"/>
+  <nd ref="296734920"/>
+  <nd ref="296734909"/>
+  <nd ref="296734874"/>
+  <nd ref="296734861"/>
+  <nd ref="296666606"/>
+  <nd ref="296666691"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Zapiola"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27078417" user="angasule" uid="67462" visible="true" version="3" changeset="663577" timestamp="2008-09-19T16:53:44Z">
+  <nd ref="296666688"/>
+  <nd ref="296666602"/>
+  <nd ref="296734856"/>
+  <nd ref="296734871"/>
+  <nd ref="296734906"/>
+  <nd ref="296734916"/>
+  <nd ref="296734933"/>
+  <nd ref="296734946"/>
+  <nd ref="296854252"/>
+  <nd ref="297070884"/>
+  <nd ref="297070919"/>
+  <nd ref="296854269"/>
+  <nd ref="296854336"/>
+  <nd ref="297070916"/>
+  <nd ref="297070913"/>
+  <nd ref="297070910"/>
+  <nd ref="297070907"/>
+  <nd ref="297070904"/>
+  <nd ref="296859153"/>
+  <nd ref="297070902"/>
+  <nd ref="297070899"/>
+  <nd ref="297070896"/>
+  <nd ref="297070893"/>
+  <nd ref="296680014"/>
+  <nd ref="296973407"/>
+  <nd ref="297074521"/>
+  <nd ref="296679926"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Alvarado"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27082600" user="angasule" uid="67462" visible="true" version="3" changeset="55782" timestamp="2008-10-04T06:12:11Z">
+  <nd ref="296637288"/>
+  <nd ref="296637218"/>
+  <nd ref="296734855"/>
+  <nd ref="296734856"/>
+  <nd ref="296734861"/>
+  <nd ref="296666708"/>
+  <nd ref="297133218"/>
+  <nd ref="297133217"/>
+  <nd ref="297133216"/>
+  <nd ref="297133215"/>
+  <nd ref="297133214"/>
+  <nd ref="297133213"/>
+  <nd ref="297133212"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rodríguez"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27082604" user="IgnacioLopez" uid="68850" visible="true" version="5" changeset="744786" timestamp="2008-11-13T12:40:28Z">
+  <nd ref="296637196"/>
+  <nd ref="296666683"/>
+  <nd ref="296666688"/>
+  <nd ref="296666691"/>
+  <nd ref="296666695"/>
+  <nd ref="297133222"/>
+  <nd ref="297133223"/>
+  <nd ref="297133224"/>
+  <nd ref="297133225"/>
+  <nd ref="297133226"/>
+  <nd ref="297133227"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="H. Yrigoyen"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27082605" user="Kcho" uid="85678" visible="true" version="2" changeset="726296" timestamp="2009-01-03T00:07:26Z">
+  <nd ref="297133228"/>
+  <nd ref="297133222"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="27082616" user="angasule" uid="67462" visible="true" version="3" changeset="55782" timestamp="2008-10-04T05:59:20Z">
+  <nd ref="297133261"/>
+  <nd ref="297133278"/>
+  <nd ref="297133279"/>
+  <nd ref="297133280"/>
+  <nd ref="297133253"/>
+  <nd ref="297133251"/>
+  <nd ref="297133275"/>
+  <nd ref="297133229"/>
+  <nd ref="296666714"/>
+  <nd ref="296734874"/>
+  <nd ref="296734871"/>
+  <nd ref="296734867"/>
+  <nd ref="296637225"/>
+  <nd ref="296637281"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="19 de Mayo"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27082617" user="angasule" uid="67462" visible="true" version="4" changeset="55782" timestamp="2008-10-04T05:59:21Z">
+  <nd ref="296637267"/>
+  <nd ref="296637233"/>
+  <nd ref="296734897"/>
+  <nd ref="296734906"/>
+  <nd ref="296734909"/>
+  <nd ref="296666718"/>
+  <nd ref="297133230"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="11 de Abril"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27082624" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="246627" timestamp="2008-12-07T20:10:31Z">
+  <nd ref="297133254"/>
+  <nd ref="317285401"/>
+  <nd ref="317285411"/>
+  <nd ref="297133286"/>
+  <nd ref="297133291"/>
+  <nd ref="297133292"/>
+  <nd ref="297133293"/>
+  <nd ref="296734968"/>
+  <nd ref="296734964"/>
+  <nd ref="296734962"/>
+  <nd ref="296637539"/>
+  <nd ref="296637430"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Belgrano"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27082625" user="Kcho" uid="85678" visible="true" version="2" changeset="608920" timestamp="2008-12-26T01:30:32Z">
+  <nd ref="297133294"/>
+  <nd ref="297133295"/>
+  <nd ref="297133296"/>
+  <nd ref="297133293"/>
+  <nd ref="297133297"/>
+  <nd ref="297133298"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Estanislao Zeballos"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27082628" user="IgnacioLopez" uid="68850" visible="true" version="6" changeset="795611" timestamp="2008-11-25T23:20:57Z">
+  <nd ref="297133314"/>
+  <nd ref="296666695"/>
+  <nd ref="296666611"/>
+  <nd ref="296666708"/>
+  <nd ref="296666710"/>
+  <nd ref="296666714"/>
+  <nd ref="296666718"/>
+  <nd ref="296666720"/>
+  <nd ref="296666728"/>
+  <nd ref="296666731"/>
+  <nd ref="296666734"/>
+  <nd ref="296666738"/>
+  <nd ref="296666744"/>
+  <nd ref="296666747"/>
+  <nd ref="296666756"/>
+  <nd ref="296666768"/>
+  <nd ref="296666771"/>
+  <nd ref="296666776"/>
+  <nd ref="296666848"/>
+  <tag k="created_by" v="Potlatch 0.10b"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Avenida L. N. Alem"/>
+  <tag k="oneway" v="no"/>
+ </way>
+ <way id="27082629" user="IgnacioLopez" uid="68850" visible="true" version="6" changeset="4816080" timestamp="2010-05-26T19:28:30Z">
+  <nd ref="296637421"/>
+  <nd ref="296637549"/>
+  <nd ref="296666546"/>
+  <nd ref="296666558"/>
+  <nd ref="296666580"/>
+  <nd ref="297133314"/>
+  <nd ref="297133294"/>
+  <nd ref="297133228"/>
+  <nd ref="297133313"/>
+  <nd ref="297133285"/>
+  <nd ref="297133256"/>
+  <nd ref="749861688"/>
+  <nd ref="297133315"/>
+  <nd ref="301458290"/>
+  <nd ref="297133316"/>
+  <nd ref="297133317"/>
+  <nd ref="297133318"/>
+  <nd ref="297133319"/>
+  <nd ref="297133320"/>
+  <nd ref="297133321"/>
+  <nd ref="297133322"/>
+  <nd ref="297133323"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Alsina"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27083324" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="744786" timestamp="2008-11-13T13:16:41Z">
+  <nd ref="296666683"/>
+  <nd ref="296666546"/>
+  <nd ref="296734962"/>
+  <nd ref="296734976"/>
+  <nd ref="296734996"/>
+  <nd ref="297139323"/>
+  <nd ref="297139320"/>
+  <nd ref="297139322"/>
+  <nd ref="297139321"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Soler"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27083337" user="IgnacioLopez" uid="68850" visible="true" version="11" changeset="2280718" timestamp="2009-08-27T18:40:46Z">
+  <nd ref="297139359"/>
+  <nd ref="297139360"/>
+  <nd ref="297139361"/>
+  <nd ref="297139362"/>
+  <nd ref="297139363"/>
+  <nd ref="297139364"/>
+  <nd ref="297139365"/>
+  <nd ref="297139366"/>
+  <nd ref="297139367"/>
+  <nd ref="316801502"/>
+  <nd ref="297139368"/>
+  <nd ref="297139369"/>
+  <nd ref="297139370"/>
+  <nd ref="297139371"/>
+  <nd ref="297139372"/>
+  <nd ref="297139373"/>
+  <nd ref="297139374"/>
+  <nd ref="297139375"/>
+  <nd ref="301497915"/>
+  <nd ref="297139376"/>
+  <nd ref="297139377"/>
+  <nd ref="301458280"/>
+  <nd ref="297139378"/>
+  <nd ref="297139379"/>
+  <nd ref="297139380"/>
+  <nd ref="297139381"/>
+  <nd ref="297139382"/>
+  <nd ref="297139354"/>
+  <nd ref="297139383"/>
+  <nd ref="297139340"/>
+  <nd ref="296859830"/>
+  <nd ref="296666449"/>
+  <nd ref="296666475"/>
+  <nd ref="296666497"/>
+  <nd ref="296666518"/>
+  <nd ref="303561532"/>
+  <nd ref="303561528"/>
+  <nd ref="296637617"/>
+  <nd ref="296637345"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Brown"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27122600" user="IgnacioLopez" uid="68850" visible="true" version="9" changeset="2280718" timestamp="2009-08-27T18:40:52Z">
+  <nd ref="296637256"/>
+  <nd ref="296637421"/>
+  <nd ref="296637430"/>
+  <nd ref="296637438"/>
+  <nd ref="296637447"/>
+  <nd ref="296637458"/>
+  <nd ref="296637465"/>
+  <nd ref="297139336"/>
+  <nd ref="297139326"/>
+  <nd ref="297139355"/>
+  <nd ref="297139334"/>
+  <nd ref="297139356"/>
+  <nd ref="297574485"/>
+  <nd ref="297574484"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Chiclana"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27154183" user="angasule" uid="67462" visible="true" version="4" changeset="55782" timestamp="2008-10-04T06:12:10Z">
+  <nd ref="297927926"/>
+  <nd ref="297927929"/>
+  <nd ref="297927933"/>
+  <nd ref="297927935"/>
+  <nd ref="297927938"/>
+  <nd ref="297927942"/>
+  <nd ref="297927948"/>
+  <nd ref="297927952"/>
+  <nd ref="297966182"/>
+  <nd ref="297927958"/>
+  <nd ref="297927959"/>
+  <nd ref="297817724"/>
+  <nd ref="297927960"/>
+  <nd ref="296858142"/>
+  <nd ref="296858141"/>
+  <nd ref="296858010"/>
+  <nd ref="296858050"/>
+  <nd ref="296858071"/>
+  <nd ref="296858096"/>
+  <nd ref="296858115"/>
+  <nd ref="296858140"/>
+  <nd ref="296666347"/>
+  <nd ref="296666317"/>
+  <nd ref="296666303"/>
+  <nd ref="296637699"/>
+  <nd ref="296637664"/>
+  <nd ref="296637288"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rondeau"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27182169" user="angasule" uid="67462" visible="true" version="3" changeset="666922" timestamp="2008-09-19T22:59:03Z">
+  <nd ref="296637421"/>
+  <nd ref="296637549"/>
+  <nd ref="296637196"/>
+  <nd ref="296637207"/>
+  <nd ref="296637299"/>
+  <nd ref="296637256"/>
+  <nd ref="296637421"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="leisure" v="park"/>
+  <tag k="place_name" v="Plaza Rivadavia"/>
+ </way>
+ <way id="27486761" user="angasule" uid="67462" visible="true" version="2" changeset="55782" timestamp="2008-10-04T06:05:37Z">
+  <nd ref="297133296"/>
+  <nd ref="301766232"/>
+  <nd ref="301766233"/>
+  <nd ref="301766231"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="residential"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27486763" user="IgnacioLopez" uid="68850" visible="true" version="4" changeset="799747" timestamp="2008-11-27T12:51:00Z">
+  <nd ref="297133312"/>
+  <nd ref="297133295"/>
+  <nd ref="297133312"/>
+  <nd ref="297133295"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Pasaje Tres Arroyos"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27494703" user="angasule" uid="67462" visible="true" version="3" changeset="202311" timestamp="2008-10-09T22:16:17Z">
+  <nd ref="301844169"/>
+  <nd ref="296637626"/>
+  <nd ref="296637337"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="name" v="Peatonal Drago"/>
+ </way>
+ <way id="27639462" user="angasule" uid="67462" visible="true" version="1" changeset="215874" timestamp="2008-10-10T15:03:42Z">
+  <nd ref="296666297"/>
+  <nd ref="296666303"/>
+  <nd ref="296637748"/>
+  <nd ref="296637359"/>
+  <tag k="created_by" v="Merkaartor 0.13"/>
+  <tag k="highway" v="residential"/>
+  <tag k="metered_parking" v="Mo-Fr 08:00-20:00; Sa 08:00-12:00"/>
+  <tag k="name" v="Güemes"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="27639510" user="Kcho" uid="85678" visible="true" version="2" changeset="621424" timestamp="2008-12-26T21:16:25Z">
+  <nd ref="303561526"/>
+  <nd ref="303561528"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Luis Beltrán"/>
+ </way>
+ <way id="28408742" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="747206" timestamp="2008-11-14T21:56:15Z">
+  <nd ref="296735008"/>
+  <nd ref="296735005"/>
+  <nd ref="296735001"/>
+  <nd ref="296734996"/>
+  <nd ref="296637521"/>
+  <nd ref="296637447"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Lavalle"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="28629700" user="IgnacioLopez" uid="68850" visible="true" version="3" changeset="795611" timestamp="2008-11-25T23:20:53Z">
+  <nd ref="296858007"/>
+  <nd ref="296858008"/>
+  <nd ref="296637400"/>
+  <nd ref="296637394"/>
+  <nd ref="296637386"/>
+  <nd ref="296637376"/>
+  <nd ref="296637370"/>
+  <nd ref="296637359"/>
+  <nd ref="296637345"/>
+  <nd ref="296637337"/>
+  <nd ref="296637323"/>
+  <nd ref="296637256"/>
+  <tag k="created_by" v="Potlatch 0.10f"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Avenida Colón"/>
+  <tag k="oneway" v="no"/>
+ </way>
+ <way id="28813885" user="IgnacioLopez" uid="68850" visible="true" version="2" changeset="2280718" timestamp="2009-08-27T18:40:53Z">
+  <nd ref="296666648"/>
+  <nd ref="298271136"/>
+  <nd ref="296666644"/>
+  <nd ref="296666640"/>
+  <nd ref="296666634"/>
+  <nd ref="296666625"/>
+  <nd ref="296666620"/>
+  <nd ref="296666616"/>
+  <nd ref="296666611"/>
+  <nd ref="296666606"/>
+  <nd ref="296666602"/>
+  <nd ref="296666597"/>
+  <nd ref="296637207"/>
+  <nd ref="296637299"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Sarmiento"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="28815214" user="IgnacioLopez" uid="68850" visible="true" version="1" changeset="129819" timestamp="2008-12-05T15:57:54Z">
+  <nd ref="316804022"/>
+  <nd ref="316804023"/>
+  <nd ref="316804024"/>
+  <nd ref="316804025"/>
+  <nd ref="316804026"/>
+  <tag k="amenity" v="hospital"/>
+  <tag k="created_by" v="Merkaartor 0.12"/>
+  <tag k="name" v="Privado del Sur"/>
+ </way>
+</osm>

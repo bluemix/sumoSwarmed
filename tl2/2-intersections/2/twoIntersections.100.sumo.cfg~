@@ -1,0 +1,24 @@
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.sf.net/xsd/sumoConfiguration.xsd">
+
+    <input>
+      <net-file value="twoIntersections.net.xml"/>
+      <route-files value="twoIntersections.500.rou.xml"/>
+       <additional-files value="intersection808_withTL.add.xml"/>
+    </input>
+
+    <output>
+      <netstate-dump value="" />
+      <tripinfo-output value="output-tripinfos.xml"/>
+      <summary-output value="output-emissions.xml"/>
+      <vehroute-output value="output-vehroutes.xml"/>
+    </output>
+
+    <time>
+      <begin value="0"/>
+      <end value="1600"/>
+      <time-to-teleport value="-1"/>
+      <seed value="23423"/>
+      <route-steps value="-1"/>
+    </time>
+
+</configuration>
